@@ -1,0 +1,8 @@
+https://www.unive.it/web/en/6439/home -O ./wmnc2024 +www.unive.it/web/en/6439/* -v
+File generated automatically on Wed, 25 Feb 2026 10:24:54, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

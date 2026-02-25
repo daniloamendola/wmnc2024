@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:24:55	101808/101808	---M-Z	200	added ('OK')	text/html	date:Wed,%2025%20Feb%202026%2009:24:54%20GMT	https://www.unive.it/web/en/6439/home	./wmnc2024/www.unive.it/web/en/6439/home.html	(from )
+10:24:56	38/38	---M--	200	added ('OK')	text/plain	etag:%2226-64986c109eae4%22	https://www.unive.it/robots.txt		(from )
