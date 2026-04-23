@@ -1,0 +1,63 @@
+/*******************************************************/
+/*						typografy		 	      	   */
+/*******************************************************/
+
+div.full .col-md-10.offset-md-1 h1{
+	text-align:center;
+}
+h2{
+  	font-size: 40px;
+	font-weight: 400;
+	text-align:center;
+	margin-top: 46px;
+	margin-bottom: 32px;
+}
+.col-lg-6 h2,
+.col-lg-7 h2,
+.col-lg-8 h2{
+	text-align:left;
+}
+div.panel-noborder.bg-velato.mb-5.shadow-sm > div > div.col-lg-8 > h2{
+	text-align:center;
+}
+h3{
+	text-align:center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+@media only screen and (max-width : 992px) {
+	h2{
+		font-size: 30px;
+		margin-top: 26px;
+		margin-bottom: 22px;
+	}
+}
+/*.full.bg-velato.text-dark .card {
+	background-color:#fff;
+}*/
+.full.bg-velato.text-dark ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 20px 20px 40px;
+}
+
+.full.bg-velato.text-dark  ul > li {
+    margin-bottom: 15px;
+}
+
+.full.bg-velato.text-dark  ul > li:before {
+    content: "\f519";
+    font-family: bootstrap-icons !important;
+    font-size: 0.8rem;
+    padding-right: 8px;
+    color: #ac0033;
+}
+.card.evento{
+	/*max-width: 400px;*/
+}
+/*******************************************************/
+/*                      footer        			   */
+/*******************************************************/
+footer{
+	margin-top:0px;
+}

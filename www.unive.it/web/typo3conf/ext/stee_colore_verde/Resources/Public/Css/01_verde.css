@@ -1,0 +1,33 @@
+/*******************************************************/
+/*						MENU LEFT	 			      	   */
+/*******************************************************/
+.menu_left .list-group.list-group-flush > span.list-group-item.list-group-item-action.active,
+.menu_left .list-group.list-group-flush > a.list-group-item.list-group-item-action.active{
+    color: #fff;
+	background-color:#006630;
+}
+.menu_left .list-group.list-group-flush > a.list-group-item.list-group-item-action:hover {
+    color: #fff;
+	background-color:#006630;
+}
+.menu_left .list-group.list-group-flush > a.list-group-item.list-group-item-action.active:hover {
+    color: #fff;
+	background-color:#006630;
+}
+.menu_left .list-group.list-group-flush > a.list-group-item.list-group-item-action:hover::before{
+    color: #fff;
+}
+.bg-sito {
+    background-color: #006630 !important;
+}
+/*******************************************************/
+/*					tastone	 	      	   */
+.cont-link-grande:hover {
+    background-color: #003D1D !important;
+    border-color: #003D1D;
+}
+/*******************************************************/
+/*					jumbotron	 	      	   */
+.bg-velato {
+    background-color: rgba(0,140,65,0.1);
+}

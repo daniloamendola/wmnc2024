@@ -9,7 +9,7 @@
 	Information and contribution at https://typo3.org/
 -->
 
-<link rel="icon" href="../../typo3conf/ext/stee_template_b5/Resources/Public/img/favicon/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/favicon/favicon.ico" type="image/vnd.microsoft.icon">
 
 <meta http-equiv="x-ua-compatible" content="IE=edge">
 <meta name="generator" content="TYPO3 CMS">
@@ -25,21 +25,21 @@
 <meta name="twitter:url" content="home.html">
 
 
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/bootstrap-5.3.8/css/bootstrap.min.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/00_bootstrap-icons.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/01_fonts.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/02_global.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/03_elements.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/04_layout.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/05_extra.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_eventi/Resources/Public/Css/eventi.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_template_eventi/Resources/Public/Css/home.css" media="all">
-<link rel="stylesheet" href="../../typo3conf/ext/stee_colore_verde/Resources/Public/Css/01_verde.css" media="all">
-<link href="../../typo3conf/ext/stee_template_b5/Resources/Public/Css/07_gallery.css" rel="stylesheet">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/bootstrap-5.3.8/css/bootstrap.min.css?1759132338" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/00_bootstrap-icons.css?1748503404" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/01_fonts.css?1662016772" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/02_global.css?1776941658" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/03_elements.css?1776953621" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/04_layout.css?1776325766" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/05_extra.css?1776941702" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_eventi/Resources/Public/Css/eventi.css?1748954884" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_template_eventi/Resources/Public/Css/home.css?1773221713" media="all">
+<link rel="stylesheet" href="https://www.unive.it/web/typo3conf/ext/stee_colore_verde/Resources/Public/Css/01_verde.css?1773822044" media="all">
+<link href="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/Css/07_gallery.css?1768818566" rel="stylesheet">
 
 
 
-<script type="text/javascript" async="" src="https://matomo.unive.it/matomo/matomo.js"></script><script src="../../typo3temp/assets/compressed/merged-ca1e0258cf72cd79c325ad5ffb75a0f7-038320babba83a367a865e132c439f86.js"></script>
+<script type="text/javascript" async="" src="https://matomo.unive.it/matomo/matomo.js"></script><script src="https://www.unive.it/web/typo3temp/assets/compressed/merged-ca1e0258cf72cd79c325ad5ffb75a0f7-038320babba83a367a865e132c439f86.js?1773652277"></script>
 
 
 
@@ -86,7 +86,7 @@
 </script>
 
 <!-- Matomo unive + agid -->
-<!-- nome pagina: '../../../WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439' -->
+<!-- nome pagina: 'https://www.unive.it/WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439' -->
 <script>
 	var full_url = 'home.html';
 	var _paq = window._paq = window._paq || [];
@@ -104,13 +104,13 @@
 		window.piwikAsyncInit = function () {
 			var u='https://ingestion.webanalytics.italia.it/';
 			var tracker1 = Piwik.getAsyncTracker(u+'matomo.php', '14422');
-			tracker1.setCustomUrl('../../../WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439');
+			tracker1.setCustomUrl('https://www.unive.it/WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439');
 			tracker1.trackPageView();
 			tracker1.enableLinkTracking();
 			
 			var u='https://matomo.unive.it/matomo/';
 			var tracker3 = Piwik.getAsyncTracker(u+'matomo.php', '4');
-			tracker3.setCustomUrl('../../../WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439');
+			tracker3.setCustomUrl('https://www.unive.it/WEB [ENG]/eventi e terza missione [ENG]/verde DAIS-DSMN/IFIP WMNC 2024/Home/6439');
 			tracker3.trackPageView();
 			tracker3.enableLinkTracking();
 					
@@ -162,8 +162,8 @@
 					<div class="col col-md-12 logo-piccolo d-flex">
 
 						<div class="logo_unive logo-piccolo position-relative">
-							<img alt="logo unive.it" class="logo-moeca img-fluid display-light" src="../../typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_pos_124-min.png">
-							<img alt="logo unive.it" class="logo-moeca img-fluid display-dark" src="../../typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_neg_124-min.png">
+							<img alt="logo unive.it" class="logo-moeca img-fluid display-light" src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_pos_124-min.png">
+							<img alt="logo unive.it" class="logo-moeca img-fluid display-dark" src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_neg_124-min.png">
 							<a class="logo-header stretched-link" href="http://www.unive.it/english">
 								<small>Ca' Foscari<br>University<br>of Venice</small><br>
 							</a>
@@ -193,7 +193,7 @@
 		<div class="navbar-header mr-auto position-relative">
 
 			<a id="logo-sito" class="navbar-brand logo-mobile d-xl-none stretched-link" href="http://www.unive.it/english">
-				<img alt="logo unive.it" class="img-fluid" src="../../typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_neg_124-min.png">
+				<img alt="logo unive.it" class="img-fluid" src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/logo-unive/CF_moeca_neg_124-min.png">
 			</a>
 			<span class="navbar-brand logo-mobile d-xl-none">
 				<small><small>Ca' Foscari<br>University<br>of Venice</small><br></small>
@@ -360,7 +360,7 @@
             
                 
 
-                    <div class="full_img blocca" style="background-image: url(../../fileadmin/user_upload/eventi/WMNC-2024/home.jpg)">
+                    <div class="full_img blocca" style="background-image: url(https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/home.jpg)">
                         <div class="container-xxl">
                             <div class="row">
                                 <div class="col">    
@@ -598,9 +598,9 @@
 				
                 <div class="uploads mb-4">
                     
-                        <a href="../../fileadmin/user_upload/eventi/WMNC-2024/Publication_Ethics_and_Malpractice_Statement_WMNC.pdf" title="Publication Ethics and Malpractice Statement" class="d-flex last" rel="noreferrer">
+                        <a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/Publication_Ethics_and_Malpractice_Statement_WMNC.pdf" title="Publication Ethics and Malpractice Statement" class="d-flex last" rel="noreferrer">
                             <div class="p-2">
-                                <img class="" width="32" src="../../typo3conf/ext/stee_template_b5/Resources/Public/img/icon/pdf.png" alt="file pdf">
+                                <img class="" width="32" src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/icon/pdf.png" alt="file pdf">
                             </div>
                             <div class="flex-grow-1 p-2">
                                 <span class="text-left fs-titolo">Publication Ethics and Malpractice Statement</span>
@@ -660,7 +660,7 @@
 				<figure class="figure">
 					
 							<a href="https://www.ifip.org/" target="_blank" rel="noreferrer" class="img-link">
-                        		<img src="../../fileadmin/user_upload/img/loghi/400x200/IFIP.png" class="figure-img img-fluid rounded-1" alt="IFIP 60 years" title="International Federation for Information Processing (IFIP)">
+                        		<img src="https://www.unive.it/web/fileadmin/user_upload/img/loghi/400x200/IFIP.png" class="figure-img img-fluid rounded-1" alt="IFIP 60 years" title="International Federation for Information Processing (IFIP)">
 							</a>
 						
 					
@@ -719,7 +719,7 @@
 				<figure class="figure">
 					
 							<a href="https://www.comsoc.org/" target="_blank" rel="noreferrer" class="img-link">
-                        		<img src="../../fileadmin/user_upload/img/loghi/400x200/ieee-comsoc.png" class="figure-img img-fluid rounded-1" alt="IEEE ComSoc" title="IEEE ComSoc">
+                        		<img src="https://www.unive.it/web/fileadmin/user_upload/img/loghi/400x200/ieee-comsoc.png" class="figure-img img-fluid rounded-1" alt="IEEE ComSoc" title="IEEE ComSoc">
 							</a>
 						
 					
@@ -778,7 +778,7 @@
 				<figure class="figure">
 					
 							<a href="https://www.mdpi.com/" target="_blank" rel="noreferrer" class="img-link">
-                        		<img src="../../fileadmin/user_upload/img/loghi/400x200/MDPI_400x200.png" class="figure-img img-fluid rounded-1" alt="MDPI - Academic Open Access Publishing since 1996" title="MDPI - Academic Open Access Publishing since 1996">
+                        		<img src="https://www.unive.it/web/fileadmin/user_upload/img/loghi/400x200/MDPI_400x200.png" class="figure-img img-fluid rounded-1" alt="MDPI - Academic Open Access Publishing since 1996" title="MDPI - Academic Open Access Publishing since 1996">
 							</a>
 						
 					
@@ -1151,9 +1151,9 @@
 				
                 <div class="uploads mb-4">
                     
-                        <a href="../../fileadmin/user_upload/eventi/WMNC-2024/Final_Program.pdf" title="IFIP WMNC 2024 - Final programme" class="d-flex last" rel="noreferrer">
+                        <a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/Final_Program.pdf" title="IFIP WMNC 2024 - Final programme" class="d-flex last" rel="noreferrer">
                             <div class="p-2">
-                                <img class="" width="32" src="../../typo3conf/ext/stee_template_b5/Resources/Public/img/icon/pdf.png" alt="file pdf">
+                                <img class="" width="32" src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/img/icon/pdf.png" alt="file pdf">
                             </div>
                             <div class="flex-grow-1 p-2">
                                 <span class="text-left fs-titolo">IFIP WMNC 2024 - Final programme</span>
@@ -1194,9 +1194,9 @@
 				
                 
 	<div class="col-md-3 p-2">
-					<a href="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241111-WA0004.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
+					<a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241111-WA0004.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
 						
-						<img src="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241111-WA0004.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
+						<img src="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241111-WA0004.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
 					</a>
         
 	</div>
@@ -1206,9 +1206,9 @@
 				
                 
 	<div class="col-md-3 p-2">
-					<a href="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241113-WA0013.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
+					<a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241113-WA0013.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
 						
-						<img src="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241113-WA0013.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
+						<img src="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241113-WA0013.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
 					</a>
         
 	</div>
@@ -1220,9 +1220,9 @@
 				
                 
 	<div class="col-md-3 p-2">
-					<a href="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241112-WA0003.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
+					<a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241112-WA0003.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
 						
-						<img src="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241112-WA0003.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
+						<img src="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241112-WA0003.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
 					</a>
         
 	</div>
@@ -1232,9 +1232,9 @@
 				
                 
 	<div class="col-md-3 p-2">
-					<a href="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241130-WA0014.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
+					<a href="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241130-WA0014.jpg" data-lightbox="gallery" class=" position-relative overflow-hidden lightbox_gallery px-0 " style="height:140px;" aria-label="gallery" data-title="" data-footer="">
 						
-						<img src="../../fileadmin/user_upload/eventi/WMNC-2024/IMG-20241130-WA0014.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
+						<img src="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/IMG-20241130-WA0014.jpg" class="img-fluid position-relative rounded-leggero shadow" style="top: 50%; transform: translateY(-50%);" alt="">
 					</a>
         
 	</div>
@@ -1399,7 +1399,7 @@
 			
 				<figure class="figure">
 					
-                        	<img src="../../fileadmin/user_upload/eventi/WMNC-2024/campus-scientifico-mestre.jpg" class="figure-img img-fluid rounded-1 shadow" alt="" title="">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/eventi/WMNC-2024/campus-scientifico-mestre.jpg" class="figure-img img-fluid rounded-1 shadow" alt="" title="">
 						
 					
 				</figure>
@@ -1671,7 +1671,7 @@
 
 	
             <a class="ancora-unive" id="c58084" name="c58084"></a>
-    		<p><strong>15th IFIP Wireless and Mobile Networking Conference (IFIP WMNC 2024)</strong><br><a href="../../../dep.dsmn" target="_top">Department of Molecular Sciences and Nanosystems</a><br><a href="https://apps.unive.it/mappe/sede/990025" target="_top"><i class="bi bi-geo-alt-fill">&zwnj;</i> Scientific Campus</a>, via Torino 155, 30172 Mestre (Venice)</p>
+    		<p><strong>15th IFIP Wireless and Mobile Networking Conference (IFIP WMNC 2024)</strong><br><a href="https://www.unive.it/dep.dsmn" target="_top">Department of Molecular Sciences and Nanosystems</a><br><a href="https://apps.unive.it/mappe/sede/990025" target="_top"><i class="bi bi-geo-alt-fill">&zwnj;</i> Scientific Campus</a>, via Torino 155, 30172 Mestre (Venice)</p>
 		
 	
 
@@ -1790,8 +1790,8 @@
     
 
     <p class="text-left mb-3">  
-  <a href="../../../pag/29567">Privacy</a> / <a href="../../../pag/40524">Cookies</a> / <a href="../../../pag/29566">Legal notes</a><br>
-  <a href="../../../pag/29565">List of thematic websites</a><br>
+  <a href="https://www.unive.it/pag/29567">Privacy</a> / <a href="https://www.unive.it/pag/40524/">Cookies</a> / <a href="https://www.unive.it/pag/29566">Legal notes</a><br>
+  <a href="https://www.unive.it/pag/29565">List of thematic websites</a><br>
 </p>
 
 
@@ -1808,7 +1808,7 @@
     
 
     <a href="https://eutopia-university.eu/" class="img-link" target="_blank">
-  <img src="../../fileadmin/user_upload/img/loghi/Eutopia_logo_blanc.png" alt="eutopia" title="" class="img-responsive hr-logo me-5">
+  <img src="https://www.unive.it/web/fileadmin/user_upload/img/loghi/Eutopia_logo_blanc.png" alt="eutopia" title="" class="img-responsive hr-logo me-5">
 </a>
 
 
@@ -1824,8 +1824,8 @@
 
     
 
-    <a href="../../../pag/12314" class="img-link">
-  <img src="../../fileadmin/user_upload/img/svg/loghi/hr_excellence_i_r.svg" alt="HR" title="" class="img-responsive hr-logo me-5">
+    <a href="https://www.unive.it/pag/12314/" class="img-link">
+  <img src="https://www.unive.it/web/fileadmin/user_upload/img/svg/loghi/hr_excellence_i_r.svg" alt="HR" title="" class="img-responsive hr-logo me-5">
 </a>
 
 
@@ -1846,7 +1846,7 @@
 
 	
             <a class="ancora-unive" id="c388" name="c388"></a>
-    		<p class="text-right text-end"><a href="../../../data/webmail" target="_top">Webmail</a> / <a href="../../../data/accesso" target="_top">Personal Area</a></p>
+    		<p class="text-right text-end"><a href="https://www.unive.it/data/webmail/" target="_top">Webmail</a> / <a href="https://www.unive.it/data/accesso" target="_top">Personal Area</a></p>
 		
 	
 
@@ -1863,8 +1863,8 @@
     
 
     <p class="text-right text-end">
-  <a href="../../../pag/20075">Call centre</a> / <a href="../../../pag/36728">FAQs for students</a> / <a href="../../../pag/20058">Public relations office</a><br>
-  <a href="http://apps.unive.it/mappe">Maps and routes [ITA]</a> / <a href="../../../wifi-eng">WiFi</a> / <a href="../../../vpn-eng">VPN</a><br>
+  <a href="https://www.unive.it/pag/20075">Call centre</a> / <a href="https://www.unive.it/pag/36728/">FAQs for students</a> / <a href="https://www.unive.it/pag/20058">Public relations office</a><br>
+  <a href="http://apps.unive.it/mappe">Maps and routes [ITA]</a> / <a href="https://www.unive.it/wifi-eng">WiFi</a> / <a href="https://www.unive.it/vpn-eng">VPN</a><br>
   <!--<a href="/aiuto">Assistenza informatica</a><br /> -->
   <!--<a href="//apps.unive.it/mappe/">Mappe e percorsi</a><br /> -->
   <!--<a href="#" data-toggle="modal" data-target="#myModal" >Press</a> /-->
@@ -1911,7 +1911,7 @@
 			
                 
                         <a href="https://www.threads.net/@cafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/threads-icon_w.png" class="social" alt="Threads" title="Threads">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/threads-icon_w.png" class="social" alt="Threads" title="Threads">
                         </a>
                     
                 
@@ -1922,7 +1922,7 @@
 			
                 
                         <a href="https://mp.weixin.qq.com/s/u70V_4FBamxUlNwz2ra68w" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/wechat-icon_w.png" class="social" alt="Wechat" title="Wechat">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/wechat-icon_w.png" class="social" alt="Wechat" title="Wechat">
                         </a>
                     
                 
@@ -1935,7 +1935,7 @@
 			
                 
                         <a href="https://www.tiktok.com/@cafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/tiktok-icon_w.png" class="social" alt="Tiktok" title="Tiktok">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/tiktok-icon_w.png" class="social" alt="Tiktok" title="Tiktok">
                         </a>
                     
                 
@@ -1946,7 +1946,7 @@
 			
                 
                         <a href="https://www.telegram.me/cafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/telegram-icon_w.png" class="social" alt="Telegram" title="Telegram">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/telegram-icon_w.png" class="social" alt="Telegram" title="Telegram">
                         </a>
                     
                 
@@ -1959,7 +1959,7 @@
 			
                 
                         <a href="https://www.flickr.com/photos/cafoscari/" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/flickr-icon_w.png" class="social" alt="Flickr" title="Flickr">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/flickr-icon_w.png" class="social" alt="Flickr" title="Flickr">
                         </a>
                     
                 
@@ -1970,7 +1970,7 @@
 			
                 
                         <a href="https://www.weibo.com/cafoscari" target="_top" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/weibo-icon_w.png" class="social" alt="Weibo" title="Weibo">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/weibo-icon_w.png" class="social" alt="Weibo" title="Weibo">
                         </a>
                     
                 
@@ -1983,7 +1983,7 @@
 			
                 
                         <a href="https://www.linkedin.com/school/cafoscari/" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/linkedin-icon_w.png" class="social" alt="LinkedIn" title="LinkedIn">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/linkedin-icon_w.png" class="social" alt="LinkedIn" title="LinkedIn">
                         </a>
                     
                 
@@ -1994,7 +1994,7 @@
 			
                 
                         <a href="https://www.instagram.com/cafoscari/" target="_top" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/instagram-icon_w.png" class="social" alt="Instagram" title="Instagram">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/instagram-icon_w.png" class="social" alt="Instagram" title="Instagram">
                         </a>
                     
                 
@@ -2007,7 +2007,7 @@
 			
                 
                         <a href="https://www.youtube.com/user/youcafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/youtube-icon_w.png" class="social" alt="Youtube" title="Youtube">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/youtube-icon_w.png" class="social" alt="Youtube" title="Youtube">
                         </a>
                     
                 
@@ -2018,7 +2018,7 @@
 			
                 
                         <a href="https://www.twitter.com/cafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/twitter-icon_w.png" class="social" alt="Twitter" title="Twitter">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/twitter-icon_w.png" class="social" alt="Twitter" title="Twitter">
                         </a>
                     
                 
@@ -2031,7 +2031,7 @@
 			
                 
                         <a href="https://www.facebook.com/cafoscari" target="_blank" rel="noreferrer" class="img-link">
-                        	<img src="../../fileadmin/user_upload/img/icons/social/facebook-icon_w.png" class="social" alt="Facebook" title="Facebook">
+                        	<img src="https://www.unive.it/web/fileadmin/user_upload/img/icons/social/facebook-icon_w.png" class="social" alt="Facebook" title="Facebook">
                         </a>
                     
                 
@@ -2232,13 +2232,13 @@
 <h4>5. Data retention</h4>
 <p>For information on the retention period of each cookie, please refer to the list below.</p>
 <h4>6. Recipients and categories of recipients of personal data and data transfer outside the European Economic Area</h4>
-<p>For the purposes set out above, in addition to specifically authorized employees and collaborators of the University, personal data may also be processed by those who execute outsourced activities on behalf of the University&nbsp; in their capacity as data processors (the updated list is available at: <a href="../../../pag/36643" target="_top" data-htmlarea-external="1">../../../pag/36643</a>).</p>
+<p>For the purposes set out above, in addition to specifically authorized employees and collaborators of the University, personal data may also be processed by those who execute outsourced activities on behalf of the University&nbsp; in their capacity as data processors (the updated list is available at: <a href="https://www.unive.it/pag/36643/" target="_top" data-htmlarea-external="1">https://www.unive.it/pag/36643/</a>).</p>
 <p>Personal data collected by third party cookies may be transferred outside the European Economic Area (EEA) in compliance with the provisions of the Regulation.</p>
 <h4>7. Data subjects rights and how to exercise them</h4>
 <p>As a data subject, you have the right to obtain from the University, in the cases provided for by the Regulation, the access, the rectification and the erasure of your personal data as well as ask for the limitation of the processing of your personal data or to object to the data processing itself (articles 15 and following of the Regulation). The request can be submitted, without any particular formal procedures, by contacting the Data Protection Officer directly at&nbsp; dpo@unive.it or by sending a communication to the following address: Ca' Foscari University of Venice - Data Protection Officer, Dorsoduro 3246, 30123 Venice. Alternatively, you can contact the Data Controller, by writing a PEC (certified email) to&nbsp; protocollo@pec.unive.it.</p>
 <p>Data subjects, who believe that the processing of their personal data is in violation of the provisions of the Regulation, have the right to file a complaint with the Data Protection Authority, as provided for by art. 77 of the Regulation, or to take legal action (art. 79 of the Regulation).</p>
 <h4>Appendix on social media:</h4>
-<p>In addition to the privacy notice published at: <a href="../../../pag/29567" target="_top" data-htmlarea-external="1">www.unive.it/pag/29567</a>, the University provides you with information on the processing of your personal data collected through its social media pages (Facebook, Instagram). In particular, the University only processes anonymous and statistical information collected by the social media providers, who act as joint controllers on the basis of the CJEU ruling n. C-210/16 (5 June 2018). Moreover, the University informs you that when you leave a comment or a post on its social media pages, it will process your data only to administer your request/comment.</p>
+<p>In addition to the privacy notice published at: <a href="https://www.unive.it/pag/29567/" target="_top" data-htmlarea-external="1">www.unive.it/pag/29567</a>, the University provides you with information on the processing of your personal data collected through its social media pages (Facebook, Instagram). In particular, the University only processes anonymous and statistical information collected by the social media providers, who act as joint controllers on the basis of the CJEU ruling n. C-210/16 (5 June 2018). Moreover, the University informs you that when you leave a comment or a post on its social media pages, it will process your data only to administer your request/comment.</p>
 <p><strong>Last updated: 27/07/2022</strong></p>
 		
 	
@@ -2542,7 +2542,7 @@
 
 
         
-            <a href="../../../pag/17993" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/17993/" target="_top">Information</a>
         
     
 
@@ -2682,7 +2682,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -2822,7 +2822,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -2962,7 +2962,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -3102,7 +3102,7 @@
 
 
         
-            <a href="../../../pag/17993" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/17993/" target="_top">Information</a>
         
     
 
@@ -3242,7 +3242,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -3382,7 +3382,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -3522,7 +3522,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -3662,7 +3662,7 @@
 
 
         
-            <a href="../../../pag/29567" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/29567/" target="_top">Information</a>
         
     
 
@@ -4362,7 +4362,7 @@
 
 
         
-            <a href="../../../pag/17993" target="_top">Information</a>
+            <a href="https://www.unive.it/pag/17993/" target="_top">Information</a>
         
     
 
@@ -4846,7 +4846,7 @@
 
 <!-- Template by Stefano Bonetta  -->
 
-<script src="../../typo3conf/ext/stee_template_b5/Resources/Public/JavaScript/lightbox.min.js"></script>
+<script src="https://www.unive.it/web/typo3conf/ext/stee_template_b5/Resources/Public/JavaScript/lightbox.min.js?1678985514"></script>
 
 
 

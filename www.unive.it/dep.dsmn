@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Home: Department of Molecular Sciences and Nanosystems</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Università Ca' Foscari Venezia">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@CaFoscari">
+<meta name="description" content="Home">
+<meta property="og:url" content="https://www.unive.it/pag/28233/">
+<meta property="og:title" content="Home:Department of Molecular Sciences and Nanosystems">
+<meta name="twitter:url" content="https://www.unive.it/pag/28233/">
+<meta name="twitter:title" content="Home:Department of Molecular Sciences and Nanosystems">
+
+
+<link rel="stylesheet" type="text/css" href="/pag/typo3temp/compressor/merged-35026c8c558e435b0f0bb2cb295bd873-fa94f82233d7380c1a31bc7ca880f010.css?1770643760" media="all">
+
+
+
+<script src="/pag/typo3temp/compressor/jquery.min-456ba9af580c39696f9dd61e4ffb604d.js?1712218263" type="text/javascript"></script>
+
+
+<link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-300italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-regular.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-600.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-600italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-700.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-700italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext-800.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext-800italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-100.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-100italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-300.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-regular.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-300italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-500.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-500italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-700.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-700italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-900.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-900italic.woff2" as="font" />
+	<!--
+		pagina: '/DIPARTIMENTI/DIPARTIMENTI_[ENG]/Department_of_Molecular_Sciences_and_Nanosystems/Home'
+	-->
+			<!-- facebook pixel -->
+			<script >
+				var univeFbPixel = function (){
+					if (document.cookie.split(';').some((item) => item.includes('socialpix=checked'))){
+
+						!function(f,b,e,v,n,t,s)
+						{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+						n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+						if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+						n.queue=[];t=b.createElement(e);t.async=!0;
+						t.src=v;s=b.getElementsByTagName(e)[0];
+						s.parentNode.insertBefore(t,s)}(window,document,'script',
+						'https://connect.facebook.net/en_US/fbevents.js');
+						fbq('init', '671717453353946'); 
+						fbq('track', 'PageView');
+						
+						setTimeout(function(){
+							fbq('trackCustom', 'TimeOnPage');
+							//console.log('tempo');
+						}, 45000);
+						var scrollReached =false;
+						var halfbrowserHeight =$(window).height() *0.6;
+						$(window).scroll(function () {
+							if (scrollReached) return false;
+							var distance =$(window).scrollTop();
+							if (distance < halfbrowserHeight) return false;
+							scrollReached = true;
+							fbq('trackCustom', 'ScrolledPage');
+							//console.log('scroll');
+						});
+
+					}
+				}
+				$(function(){
+					univeFbPixel();
+				});
+			</script>
+			
+			<!-- Web Analytics Unive -->
+			
+			<script>
+			  var _paq = window._paq = window._paq || [];
+			  
+			  (function() {
+				var u='https://ingestion.webanalytics.italia.it/';
+				_paq.push(['setTrackerUrl', u+'matomo.php']);
+				_paq.push(['setSiteId', 'wGpbnPWpYb']);
+    			_paq.push(['addTracker', u+'matomo.php', 'EN0VJyW0rl']);
+				
+				var u='https://matomo.unive.it/matomo/';
+    			_paq.push(['addTracker', u+'matomo.php', '1']);
+    			_paq.push(['addTracker', u+'matomo.php', '3']);
+				
+				window.piwikAsyncInit = function () {
+					var u='https://ingestion.webanalytics.italia.it/';
+					var tracker1 = Piwik.getAsyncTracker(u+'matomo.php', 'wGpbnPWpYb');
+					tracker1.setCustomUrl('https://www.unive.it/DIPARTIMENTI/DIPARTIMENTI_[ENG]/Department_of_Molecular_Sciences_and_Nanosystems/Home');
+					tracker1.trackPageView();
+					tracker1.enableLinkTracking();
+					
+					var tracker2 = Piwik.getAsyncTracker(u+'matomo.php', 'EN0VJyW0rl');
+					tracker2.trackPageView();
+					tracker2.enableLinkTracking();
+					
+					var u='https://matomo.unive.it/matomo/';
+					var tracker3 = Piwik.getAsyncTracker(u+'matomo.php', '1');
+					tracker3.setCustomUrl('https://www.unive.it/DIPARTIMENTI/DIPARTIMENTI_[ENG]/Department_of_Molecular_Sciences_and_Nanosystems/Home');
+					tracker3.trackPageView();
+					tracker3.enableLinkTracking();
+					
+					var tracker4 = Piwik.getAsyncTracker(u+'matomo.php', '3');
+					tracker4.trackPageView();
+					tracker4.enableLinkTracking();
+				}
+
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+			  })();
+			</script>
+
+			<!-- End Web Analytics Unive -->
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+	<symbol id="bootstrap" viewBox="0 0 118 94">
+		<path fill="currentColor" fill-rule="evenodd" d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 0 1-2-2V24a2 2 0 0 1 2-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863M60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207M49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281s-3.903-8.178-11.425-8.178H49.948z" clip-rule="evenodd"/>
+	</symbol>
+	<symbol id="check2" viewBox="0 0 16 16">
+		<path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0"/>
+	</symbol>
+	<symbol id="circle-half" viewBox="0 0 16 16">
+		<path d="M8 15A7 7 0 1 0 8 1zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16"/>
+	</symbol>
+	<symbol id="moon-stars-fill" viewBox="0 0 16 16">
+		<path d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278"/>
+		<path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.73 1.73 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.73 1.73 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.73 1.73 0 0 0 1.097-1.097zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.16 1.16 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.16 1.16 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732z"/>
+	</symbol>
+	<symbol id="sun-fill" viewBox="0 0 16 16">
+		<path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708"/>
+	</symbol>
+</svg>
+
+<header class="unive_header" id="header">
+
+                             
+       
+    
+
+  
+
+            <div class="container-xxl logo-sezione d-none d-xl-block">
+                <div class="riga">
+                    <div class="row">
+                
+ 			
+
+					<div class="col col-md-12 logo-medio d-flex">
+
+						<div class="logo_unive logo-medio position-relative">
+							<img alt="logo unive.it" 
+                                 class="logo-moeca img-fluid display-light" 
+                                 src="/pag/templates/img/logo_uni/CF_moeca_pos_124.png">
+							<img alt="logo unive.it" 
+                                 class="logo-moeca img-fluid display-dark" 
+                                 src="/pag/templates/img/logo_uni/CF_moeca_neg_124.png">
+							<a href="//www.unive.it/english"><small>Ca' Foscari<br />University<br />of Venice</small></a><br>
+						</div>
+
+						
+							<span class="section-name position-relative">
+								<a href="/pag/28232/"><small>Department of</small><br>Molecular Sciences and Nanosystems</a><br> 
+							</span>    
+						
+
+						
+							
+						<div class="col text-end">
+							<div class="mail_riservata text-end pe-0 my-0">
+								<div class="list-group list-group-horizontal my-0 me-0">
+									<a class="list-group-item" href="https://www.unive.it/data/webmail/"><i class="bi bi-envelope-fill"></i> Webmail</a>
+<a class="list-group-item" href="https://www.unive.it/data/accesso"><i class="bi bi-person-fill"></i> Personal Area</a>
+								</div>	
+							</div>	
+
+						
+						</div>
+
+					</div>
+
+				
+                    </div>
+                </div>
+            </div>
+            
+
+    
+    
+</header>
+
+
+<main>
+
+    <nav class="navbar sticky-top navbar-expand-xl navbar-dark bg-verde" aria-label="Offcanvas navbar large">
+        <div class="container-xxl">  
+    
+            <div class="navbar-header mr-auto">
+    
+                <a id="logo-sito"  class="navbar-brand logo-mobile d-xl-none" href="//www.unive.it/english">
+                    <img alt="logo unive.it" class="img-fluid" src="/pag/templates/img/logo_uni/CF_moeca_neg_124.png">
+                </a>
+                <span class="navbar-brand logo-mobile d-xl-none" >
+                    <small><a href="//www.unive.it/english"><small>Ca' Foscari<br />University<br />of Venice</small></a><br></small>
+                </span>
+    
+            </div>
+         
+            <div class="d-flex justify-content-end">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsearch" aria-controls="navbarsearch" aria-expanded="false" aria-label="Cerca - Search">
+                    <i class="bi bi-search"></i>
+                </button>
+    
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="mostra menu di navigazione - Toggle navigation">
+                    <i class="fs-2 bi bi-list"></i>
+                </button>
+            </div>
+    
+            <div class="offcanvas offcanvas-end text-white bg-rosso" tabindex="-1" id="offcanvasNavbar2" aria-labelledby="offcanvasNavbar2Label">
+                <div class="offcanvas-header">
+                    <p class="offcanvas-title fs-5" id="offcanvasNavbarLabel">
+                        <small>Department of</small><br>Molecular Sciences and Nanosystems
+                    </p>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+    
+    
+                    <div class="d-none d-xl-block">
+                        <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav">
+                            <li class="nav-item col-6 col-xl-auto attivo"><a href="/pag/28233/" class="nav-link py-2 px-0 px-xl-3 mx-xl-3 active">Home</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28235/" class="nav-link py-2 px-0 px-xl-2">Study</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28239/" class="nav-link py-2 px-0 px-xl-2">Research</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28247/" class="nav-link py-2 px-0 px-xl-2">Public engagement</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28249/" class="nav-link py-2 px-0 px-xl-2">Department</a></li> 
+                        </ul>
+                    </div>
+                    
+                    <div class="d-xl-flex justify-content-end flex-grow-1 pe-0">
+    
+                        
+
+        <!--					<div class="card d-xl-none mt-0">
+                                <div class="card-body px-4 py-2">
+                                    ENG
+                                    <li class="page-item"><a href="http://www.unive.it/dsmn" class="page-link bg-rosso text-white">ITA</a></li>
+                                </div>
+                            </div>-->
+                            <nav aria-label="lang" class="d-xl-none flex-grow-1 mt-0">
+                                <ul class="pagination">
+                                    <li class="page-item active" aria-current="page">
+                                        <span class="page-link fw-normal text-dark bg-white border-white">ENG</span>
+                                    </li>
+                                    <li class="page-item"><a href="http://www.unive.it/dsmn" class="page-link bg-rosso text-white">ITA</a></li>
+                                </ul>
+                            </nav>
+
+                            <div class="d-none d-xl-block">  
+
+                                <ul class="navbar-nav ">
+                                    <li class="nav-item dropdown">
+
+                                        <a class="nav-link dropdown-toggle" href="#" id="localDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">    
+                                            ENG
+                                        </a>
+
+                                        <div class="dropdown-menu dropdown-menu-end localizzazione" aria-labelledby="localDropdown">
+                                            <a href="http://www.unive.it/dsmn" class="dropdown-item">ITA</a>
+                                        </div>
+
+                                    </li>
+                                </ul>	
+
+                            </div>
+
+                        
+                        
+                        <ul class="navbar-nav pe-1">
+                            <li class="nav-item dropdown">
+                                <button class="btn btn-link nav-link px-0 px-lg-2 py-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (auto)"> 
+                                    <svg class="bi my-1 theme-icon-active" aria-hidden="true">
+                                        <use href="#circle-half"></use>
+                                    </svg> 
+                                    <span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span> 
+                                </button> 
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text"> 
+                                    <li>
+                                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true" >
+                                                <use href="#sun-fill"></use>
+                                            </svg>
+                                            Light
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                    <li> 
+                                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true">
+                                                <use href="#moon-stars-fill"></use>
+                                            </svg>
+                                            Dark
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                    <li> 
+                                        <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true">
+                                                <use href="#circle-half"></use>
+                                            </svg>
+                                            Auto
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                </ul> 
+                            </li>
+                        </ul> 
+                        
+                    </div>
+    
+                    <div class="d-xl-none">
+    
+                        <hr class="d-xl-none text-white opacity-100">
+    
+                        <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav">
+                            <li class="nav-item col-6 col-xl-auto attivo"><a href="/pag/28233/" class="nav-link py-2 px-0 px-xl-3 mx-xl-3 active">Home</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28235/" class="nav-link py-2 px-0 px-xl-2">Study</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28239/" class="nav-link py-2 px-0 px-xl-2">Research</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28247/" class="nav-link py-2 px-0 px-xl-2">Public engagement</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/28249/" class="nav-link py-2 px-0 px-xl-2">Department</a></li> 
+                        </ul>
+    
+                    </div>
+    
+                    
+    
+                    
+    
+                        <hr class="d-xl-none text-white opacity-100">
+    
+                        <div class="d-xl-none mailriservata-mobile">
+                            <a class="list-group-item" href="https://www.unive.it/data/webmail/"><i class="bi bi-envelope-fill"></i> Webmail</a>
+<a class="list-group-item" href="https://www.unive.it/data/accesso"><i class="bi bi-person-fill"></i> Personal Area</a>
+                        </div>
+    
+                    
+    
+                </div>
+            </div>
+    
+    
+            <div class="collapse navbar-collapse" id="navbarsearch">
+                    <div class="d-xl-none mt-3"></div>
+                    <form name="search" class="flex-fill"  method="get" action="//www.unive.it/data/search" role="search" >  
+  
+  <div class="input-group my-1 me-1">
+    <input type="text" class="form-control border-light" placeholder="search..." name="q" title="search" >
+    <button class="btn btn-light border-light" type="submit" aria-label="Find in this site"><i class="bi bi-search"></i></button>
+  </div><!-- /input-group -->
+  
+</form>
+  
+            </div>
+    
+        </div>
+    </nav>
+    
+    
+    
+        <div class="sub-header d-block d-md-none">  
+            <div class="container-xxl">  
+                <a href="/pag/28232/"><small>Department of</small><br>Molecular Sciences and Nanosystems</a><br> 
+            </div>
+        </div>
+    
+    
+    
+    
+    <div class="container-xxl">  
+        <div class="row">
+                <div class="col">
+            
+                <!-- content  -->
+                
+	
+
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="full_default">
+		<div class="container-fluid full_space">
+			<div class="row">
+				<div class="col">
+					<div class="box_img" style="background-image: url(/pag/fileadmin/user_upload/dipartimenti/DSMN/img/grafica/home-DSMN-2.jpg);"><div class="container">
+    <div class="row intestazione">
+    </div>
+</div>
+<div class="barra-bottom">
+  <div class="container"><a id="c615324" name="c615324" class="anchor"><!-- ANCHOR --></a><h1><small>Department of</small><br />Molecular Sciences and Nanosystems</h1>    </div>
+</div></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+<a id="c615336" name="c615336" class="anchor"><!-- ANCHOR --></a><h2>News</h2>       
+
+
+		<div class="card-deck">
+            
+			<div class="card text-pic"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=15132&amp;cHash=9dbc8f044bacd18d918fb5d7df19f99a" target="_top"><img src="/pag/fileadmin/user_upload/dipartimenti/DSMN/img/600x450/chitina_blu_600x450.jpg" class="card-img-top shadow-sm" alt="Intelligent Materials from Blue Crab Shells: a Ca' Foscari Patent"/></a><div class="card-body"><h5 class="card-title"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=15132&amp;cHash=9dbc8f044bacd18d918fb5d7df19f99a" target="_top">Intelligent Materials from Blue Crab Shells: a Ca' Foscari Patent</a></h5><p class="bodytext">A DSMN research team has patented, in collaboration with University of Pavia, the ability to transform chitin into intelligent nanomaterials with functional properties. The process has potential applications in various fields ranging from biomedicine to sustainable packaging, as well as in the restoration and conservation of writing materials.</p></div></div><div class="card text-pic"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=15998&amp;cHash=58f9034ea14246adfbee74ea381a2bbf" target="_top"><img src="/pag/fileadmin/user_upload/dipartimenti/DSMN/img/600x450/NEWS_ENG_2025/foto_News_OF_2025.jpg" class="card-img-top shadow-sm" alt="Discover Ca’ Foscari and everything new in 2025/2026 Degree Programmes"/></a><div class="card-body"><h5 class="card-title"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=15998&amp;cHash=58f9034ea14246adfbee74ea381a2bbf" target="_top">Discover Ca’ Foscari and everything new in 2025/2026 Degree Programmes</a></h5><p class="bodytext">Ca’ Foscari University is a dynamic academic community in the heart of Venice. Constantly innovating its educational offer, Ca’ Foscari guarantees excellence and multidisciplinary learning, as confirmed by its rankings in national and international league tables and its impressive post-graduation employment rates.</p></div></div><div class="card text-pic"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=14986" target="_top"><img src="/pag/fileadmin/user_upload/dipartimenti/DSMN/img/600x450/facciata_2023_europeu.jpg" class="card-img-top shadow-sm" alt="QS Europe: Ca' Foscari scores top results for outbound student mobility"/></a><div class="card-body"><h5 class="card-title"><a href="https://www.unive.it/pag/16584/?tx_news_pi1%5Bnews%5D=14986" target="_top">QS Europe: Ca' Foscari scores top results for outbound student mobility</a></h5><p class="bodytext">Ca' Foscari University of Venice ranks fourth in Europe and first among Italian universities for outbound exchange studen ts in the new 2024 QS Europe University Rankings.</p></div></div><div class="card text-pic"><a href="https://www.unive.it/pag/14024/?tx_news_pi1%5Bnews%5D=15127" target="_top"><img src="/pag/fileadmin/user_upload/dipartimenti/DSMN/img/600x450/hr_600x450.png" class="card-img-top shadow-sm" alt="Ca' Foscari receives award for HR Excellence in Research"/></a><div class="card-body"><h5 class="card-title"><a href="https://www.unive.it/pag/14024/?tx_news_pi1%5Bnews%5D=15127" target="_top">Ca' Foscari receives award for HR Excellence in Research</a></h5><p class="bodytext">Ca' Foscari was successfully assessed by the European evaluators of the Human Resources Strategy for Researchers (HRS4R), and it can remain listed among the &quot;HR Recognized Institutions&quot; in Italy on the EURAXESS website.</p></div></div>
+                
+		</div>
+            
+	
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="grigio_ar">
+		<div class="container-xxl">
+			<div class="row">
+				<div class="col">
+					<a id="c615339" name="c615339" class="anchor"><!-- ANCHOR --></a><h2><i>Welcome message from Maurizio Selva, Director of the Department</i></h2>
+		
+	<div class="row  ">
+		<div class="   col-lg-8 ">
+			<div class="w-100 divider-invisibile" ></div>
+	<div class="ratio ratio-16x9 youtube my-1">
+		<div class="steeiframe embed-responsive-item" 
+        	 data-steeiframe-src="https://www.youtube-nocookie.com/embed/bkPux3npC1A?hl=en&rel=0" 
+             data-steeiframe-allowfullscreen="" title="Youtube - Maurizio Selva - Direttore del Dipartimento di Scienze Molecolari e Nanosistemi">
+			<a class="link-cookie-spento" href="javascript:cookiesPolicy.showPopup()">
+				<img src="/pag/fileadmin/user_upload/img/icon/youtube-icon_w.png" alt="Youtube video">
+			</a>
+			<h4 class="position-absolute text-muted text-center p-3 m-2 mt-4">
+				<a class="text-reset" href="javascript:cookiesPolicy.showPopup()">
+					To access this content, please enable Google-Youtube cookies
+				</a>
+			</h4>
+		</div>
+	</div>	
+
+
+
+
+
+
+
+
+		</div>
+		<div class="   col-lg-4 ">
+			<div class="box citazione"><h4 style="font-style: italic;">&quot;The Department of Molecular Sciences and Nanosystems offers three Bachelor's degree programmes, three Master's degree programmes, and PhD courses. The employability rate is close to 90% one year after graduation. Research activities are mainly experimental, with over twenty research laboratories and advanced scientific equipment. The Department interacts effectively with local businesses, promoting technology transfer. We are an open, international scientific community engaged in dissemination and public engagement activities.”</h4>
+<h5>Maurizio Selva, <br /><small class="text-muted">Director of the Department of Molecular Sciences and Nanosystems</small></h5></div>
+		</div>
+	</div>
+			
+<div class="w-100 divider-invisibile" ></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+	
+
+
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="full_default">
+		<div class="container-xxl">
+			<div class="row">
+				<div class="col">
+					<a id="c615349" name="c615349" class="anchor"><!-- ANCHOR --></a><h2>Agenda</h2><div class="eventi-lista" id="infoscari_eventi">Caricamento...</div>
+<script type="text/javascript">
+  $(document).ready(function() {     
+    $.ajax({
+      url: '//www.unive.it/data/ajax/Eventi/home?gruppo=6&quanti=4&lang=en&layout=horiz',
+      type: 'GET',
+      dataType: 'html'
+    }).done(function(data){
+      $('#infoscari_eventi').html(data);
+    });  
+  });   
+</script>
+<p class="link-con-freccia"><a href="https://www.unive.it/data/33113/6/">All the events</a>&nbsp;<i class="bi bi-arrow-right-circle-fill"></i></p><div class="w-100 divider-invisibile" ></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+	
+
+<a id="c615359" name="c615359" class="anchor"><!-- ANCHOR --></a><h2>Our research</h2>
+		
+	<div class="row  ">
+		<div class="   col-lg-3 ">
+			<figure class="figure d-none d-md-block"><img src="/pag/fileadmin/user_upload/dipartimenti/DSMN/img/grafica/DSMNricerca06.jpg" alt="" title="" class="img-fluid rounded-circle" /></figure>
+		</div>
+		<div class="   col-lg-9 ">
+			<a id="c615360" name="c615360" class="anchor"><!-- ANCHOR --></a><h3>Research areas</h3><p class="bodytext">The Department of Molecular Sciences and Nanosystems takes advantage of the synergy created by the complementary skills of its staff. Our research activity is decidedly interdisciplinary, thanks to the staff’s diverse competencies. It focuses on three interdisciplinary topics:</p><ul><li><strong>Topic 1</strong>: nanosystems and nano-biomaterials for biomedical, sensory, environmental, energetic and technological applications</li><li><strong>Topic 2</strong>: sustainable chemistry for the industry and the environment</li><li><strong>Topic 3</strong>: new technologies, materials and analytical methods for the study of products in the field of cultural heritage&nbsp;</li></ul><p class="bodytext">By developing research topics that focus on sustainability, the Department interacts in positive and beneficial ways with local businesses and manufacturers.</p>
+		</div>
+	</div>
+			
+<div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/dipartimenti/DSMN/documenti/ricerca/BrochureDSMN_ricerca_e_svilupo_2024__ENG_.pdf" title="Our research " target="_blank" rel="noreferrer">Our research </a></span></td><td class="text-end"><span class="badge bg-secondary">7.61 M</span></td></tr></table></div><div class="w-100 divider-invisibile-doppio" ></div>       
+
+
+		<div class="row row-cols-1 row-cols-md-2 g-4">
+
+			
+				
+					<div class="col">
+				   
+	
+	<div class="card tit-verde">
+		
+			<div class="card-header">
+				Research projects
+			</div>
+		
+		
+				<div class="card-body">
+					<h5><strong>PIN1</strong> - targeted therapy in high grade serous ovarian cancer patients</h5>
+<p class="bodytext">Scientific Coordinator: Flavio Rizzolio; <br />Duration: 02/01/2020 - 01/01/2025</p><h5><strong>NANO-REGION</strong>: an open access network for innovation through nanotechnology </h5>
+<p class="bodytext">Scientific Coordinator: Alvise Benedetti;  <br />Duration: 01/02/2019 - 31/01/2022</p><h5>Emergence of New Phases in Biopolymer Systems</h5>
+<p class="bodytext">Scientific Coordinator: Achille Giacometti <br />Duration: 16/06/2020 al 15/06/2023</p><p class="link-con-freccia"><a href="/pag/28239/">All research projects</a>&nbsp;<i class="bi bi-arrow-right-circle-fill"></i></p>
+				</div>
+			
+	</div>		
+		
+
+
+
+					</div>
+				
+			
+				
+					<div class="col">
+				   
+	
+	<div class="card tit-verde">
+		
+			<div class="card-header">
+				Publications
+			</div>
+		
+		
+				<div class="card-body">
+					<div class="eventi-lista" id="pubblicazioni_dip">Caricamento...</div>
+<script type="text/javascript">
+  $(document).ready(function() {    
+    $.ajax({
+      url: '//www.unive.it/data/ajax/Pubblicazioni/dipartimento-home?struttura=520050&limit=3',
+      type: 'GET',
+      dataType: 'html'
+    }).done(function(data){
+      $('#pubblicazioni_dip').html(data);
+    });  
+  });  
+</script><p class="link-con-freccia"><a href="/pag/29079/">Publications catalogue</a>&nbsp;<i class="bi bi-arrow-right-circle-fill"></i></p>
+				</div>
+			
+	</div>		
+		
+
+
+
+					</div>
+				
+			
+
+		</div>
+        
+	<div class="w-100 divider-invisibile-doppio" ></div>      
+                <!-- fine content  -->   
+            
+                </div> <!-- fine col 12-->
+        </div><!-- fine row--> 
+    </div><!-- fine container-xxl-->
+    
+
+</main>
+    
+ 
+<footer class="bottom">
+  <div class="container-xxl">
+        
+        <div class="row">
+            <div class="col">
+                
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="grigio_ar">
+		<div class="container-xxl">
+			<div class="row">
+				<div class="col">
+					<h2>Contacts</h2>
+<p class="bodytext"><strong>Department of Molecular Sciences and Nanosystems</strong><br /><a href="https://apps.unive.it/mappe/sede/990025" target="_top"><i class="bi bi-geo-alt-fill"></i> Scientific Campus</a>, via Torino 155, 30172 Mestre (Venice)</p>
+<p class="bodytext"> Education:&nbsp;<i class="bi bi-envelope"></i>&nbsp;<a href="mailto:didattica.dsmn@unive.it">didattica.dsmn@unive.it</a><br /> Research:&nbsp;<i class="bi bi-envelope"></i>&nbsp;<a href="mailto:ricerca.dsmn@unive.it">ricerca.dsmn@unive.it</a><br /> Administration:&nbsp;<i class="bi bi-envelope"></i>&nbsp;<a href="mailto:segreteria.dsmn@unive.it">segreteria.dsmn@unive.it</a>&nbsp;</p><a href="https://www.instagram.com/dsmn.cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/instagram-icon.png" alt="Instagram DSMN" title="Instagram DSMN" class="social"/></a><a href="https://www.linkedin.com/showcase/dsmn-cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/linkedin-icon.png" alt="LinkedIn DSMN" title="LinkedIn DSMN" class="social"/></a><a href="https://www.youtube.com/@DSMNUniversit%C3%A0CaFoscariVenezia" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/youtube-icon.png" alt="YouTube DSMN" title="YouTube DSMN" class="social"/></a>
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+	
+
+
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="grigio_scuro_unive">
+		<div class="container-xxl">
+			<div class="row">
+				<div class="col">
+					
+		
+	<div class="row  ">
+		<div class="  col-md-6  ">
+			<address>
+  <strong>Ca' Foscari University</strong><br>
+  Dorsoduro 3246, 30123 Venice (Italy)<br>
+  VAT Number 00816350276 - Fiscal Code 80007720271
+</address><p class="text-left mb-3">  
+  <a href="/pag/29567">Privacy</a> / <a href="/pag/40524/">Cookies</a> / <a href="/pag/29566">Legal notes</a><br>
+  <a href="/pag/29565">List of thematic websites</a><br>
+</p><a href="https://eutopia-university.eu/" class="img-link" target="_blank">
+  <img src="/pag/fileadmin/user_upload/img/loghi/Eutopia_logo_blanc.png" alt="Eutopia website" title="Eutopia website" class="img-responsive hr-logo me-5" />
+</a><a href="/pag/17614/">
+  <img src="/pag/fileadmin/user_upload/img/svg/hr_excellence_i_r.svg" alt="HR website" title="HR website" class="img-responsive hr-logo" />
+</a>
+		</div>
+		<div class="  col-md-6  ">
+			<p class="text-right text-end fs-5"><a href="https://www.unive.it/data/webmail/" target="_blank" rel="noreferrer" class="linkarchive">Webmail</a> / <a href="https://www.unive.it/data/accesso" class="linkarchive">Personal Area</a></p><p class="text-right text-end">
+  <a href="/pag/20075">Call centre</a> / <a href="/pag/36728/">FAQs for students</a> / <a href="/pag/20058">Public relations office</a><br />
+  <a href="//apps.unive.it/mappe">Maps and routes [ITA]</a> / <a href="/wifi-eng">WiFi</a> / <a href="/vpn-eng">VPN</a><br />
+  <!--<a href="/aiuto">Assistenza informatica</a><br /> -->
+  <!--<a href="//apps.unive.it/mappe/">Mappe e percorsi</a><br /> -->
+  <!--<a href="#" data-toggle="modal" data-target="#myModal" >Press</a> /--> 
+  <!--<a href="//www.unive.it/pag/17402/">Ca' Foscari social</a><br />-->
+</p>
+<div class="w-100 divider-invisibile-doppio" ></div><a href="https://www.threads.net/@cafoscari" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/threads-icon_w.png" alt="Threads" title="Threads" class="social"/></a><a href="https://mp.weixin.qq.com/s/u70V_4FBamxUlNwz2ra68w" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/wechat-icon_w.png" alt="Wechat" title="Wechat" class="social"/></a><a href="https://www.tiktok.com/@cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/tiktok-icon_w.png" alt="Tiktok" title="Tiktok" class="social"/></a><a href="//www.telegram.me/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/telegram-icon_w.png" alt="Telegram" title="Telegram" class="social"/></a><a href="//www.flickr.com/photos/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/flickr-icon_w.png" alt="Flickr" title="Flickr" class="social"/></a><a href="//www.weibo.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/weibo-icon_w.png" alt="Weibo" title="Weibo" class="social"/></a><a href="//www.linkedin.com/school/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/linkedin-icon_w.png" alt="LinkedIn" title="LinkedIn" class="social"/></a><a href="//www.instagram.com/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/instagram-icon_w.png" alt="Instagram" title="Instagram" class="social"/></a><a href="//www.youtube.com/user/youcafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/youtube-icon_w.png" alt="Youtube" title="Youtube" class="social"/></a><a href="//www.twitter.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/twitter-icon_w.png" alt="Twitter" title="Twitter" class="social"/></a><a href="//www.facebook.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/facebook-icon_w.png" alt="Facebook" title="Facebook" class="social"/></a>
+		</div>
+	</div>
+			
+
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+	
+
+
+            </div> <!-- fine col 12-->
+        </div><!-- fine row-->
+    
+	</div><!-- fine container-xxl-->
+</footer>
+
+
+
+	<div class="modal fade" role="dialog" id="cookieModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="cookieModalLabel" aria-hidden="true" data-nosnippet>
+  <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+     
+      <div class="modal-header flex-column position-relative">
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" onClick="cookiesPolicy.selDefAndloadScript()" ></button>
+         <small class="ms-auto me-0 pt-1 text-muted">If you close the banner, only essential cookies will be automatically activated</small>
+      </div>
+      
+      <div class="modal-body cookie">
+        <div class="container">
+          <div class="row">
+              
+            <div class="col-12 col-md-2">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="home-tab" data-bs-toggle="pill" href="#home" role="tab" aria-controls="home" aria-selected="true">Cookie</a>
+                    <a class="nav-link" id="info-tab" data-bs-toggle="pill" href="#info" role="tab" aria-controls="info" aria-selected="false">Cookie Policy</a>
+                    <a class="nav-link" id="lista-tab" data-bs-toggle="pill" href="#lista" role="tab" aria-controls="info" aria-selected="false">Information on cookies</a>
+                </div>
+            </div>
+            <div class="col-12 col-md-10">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                      <p class="lead" id="cookieModalLabel">This website uses cookies</p>
+                        <p>
+                          This website uses cookies. Essential cookies (first party) are necessary for this website to work properly and they allow the University to compile anonymous statistics on its use. If you click on the X, you will only enable essential cookies. With your consent, cookies will activate social media functionalities and produce usage statistics, and your data will be shared with our partners that may associate it with other data for analysis, advertising, ect. On “Cookie list” you can see which cookies may be installed. You can find out more on the “Cookie policy”.
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" disabled checked>
+                            <label class="form-check-label" for="inlineCheckbox1">
+                                Essential
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" name="noiframe" id="noiframe" value="noiframe">
+                            <label class="form-check-label" for="noiframe">
+                                Google - Youtube
+                            </label>
+                        
+                        </div>
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" name="socialpix" id="socialpix" value="socialpix">
+                            <label class="form-check-label" for="socialpix">
+                                Facebook - Pixel
+                            </label>
+                        
+                        </div>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                          <button class="btn btn btn-primary btn-sm px-4 mt-2 float-end " data-dismiss="modal" data-toggle="tooltip" onClick="cookiesPolicy.selAndloadScript()">
+                            Accept the selected cookies
+                          </button>
+                          <button class="btn btn btn-primary btn-sm px-4 mt-2 float-end " data-dismiss="modal" onClick="cookiesPolicy.selAllAndloadScript()">
+                            Accept all cookies
+                          </button>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="info" role="tabpanel" aria-labelledby="info-tab"><a id="c526949" name="c526949" class="anchor"><!-- ANCHOR --></a><h4>Cookies Policy</h4><h3>Cookie Policy - Privacy notice provided in accordance with EU Regulation 2016/679</h3>
+<p class="bodytext">Ca' Foscari University of Venice (henceforth, “University”), as part of its institutional aims and in fulfilment of the obligations set forth in article 13 of the EU Regulation 2016/679 (&quot;Regulation&quot;), gives you information regarding the processing of personal data collected by cookies and/or similar technologies when you visit the <a href="http://www.unive.it/">www.unive.it</a> website (“Website”). Cookies are small pieces of information that a website sends to the user’s device, where they are automatically stored and then sent back to the same website or to a third party each time the website is visited using that device.</p>
+<p class="bodytext">In this notice, the term “cookie” will mean cookies as defined above as well as any other similar tracking technology used in the Website.</p>
+<h4>1. Data Controller&nbsp;</h4>
+<p class="bodytext">The data controller is Ca' Foscari University of Venice, with headquarters in Dorsoduro n. 3246, 30123 Venice (VE), legally represented by the Rector pro tempore.</p>
+<h4>2. Data Protection Officer</h4>
+<p class="bodytext">The University has appointed a &quot;Data Protection Officer&quot; (&quot;DPO&quot;), who can be contacted by writing to the email address:&nbsp; dpo@unive.it or to the following address:&nbsp; Ca' Foscari University, Venice, Data Protection Officer, Dorsoduro n. 3246, 30123 Venice (VE).</p>
+<h4>3. Types of cookies, data collect, purposes and legal basis</h4>
+<p class="bodytext">The Website contains the following types of cookies (for detailed information on each individual cookie, please refer to the cookie list at the end of the notice):</p><ul><p class="bodytext"><li><strong>Essential cookies</strong>: these are cookies that facilitate navigation or provide a service requested by the user. They are not used for any additional purposes and are typically installed directly by the website owner. The Website includes cookies necessary for managing login and access to the Personal Area of the Website, as well as for recording preferences related to cookie installation. Personal data associated with these cookies include the user’s IP address, date and time of the visit, means of data transfer, requested resource, response, response size in bytes, link connected to the user requesting the resource, user’s operating system, browser and device used. The legal basis for this processing activity is represented by art. 6.1.b) (“performance of a service asked by the data subject”) and art. 6.1.e) of the Regulation (“execution of a task of public interest or connected to the exercise of public powers''). The University is a public body, and it is required to have a website where the users can find useful information on its activities (art. 53 e 54 D.Lgs. n. 82/2005). Disabling these cookies through the banner is impossible, as this action would negatively affect your navigation of the Website.</li><li><strong>First-party analytical cookies</strong>: these are cookies used to measure visits to various pages of the Website and to improve its performance and usability through the processing of aggregated data for statistical purposes. The analytical cookies in use are issued by the University.</li><li><strong>Third-party cookies (social networks)</strong>: these are cookies issued by third parties only when the user has given explicit consent. During the first visit to the Website, users are asked to consent to the installation of these cookies via a dedicated banner. The absence or subsequent withdrawal of consent through the &quot;disable cookies&quot; setting does not affect navigation on the Website.<br />The data collected is gathered by these third parties, not by the operator of the website being visited, and is used to collect information on user navigation and preferences.<br />The third-party cookies that may be set by the Website include: </p><ol type="a"><li>Google - YouTube cookies: these allow users to view YouTube videos embedded on the Website and enable the University to assess the effectiveness of institutional communication activities. These cookies are managed by Google.</li><li>Facebook - Pixel cookies: these track users for advertising retargeting on Facebook and are managed by Meta Platforms Inc.</li></ol><p class="bodytext">By consenting to the installation of Facebook - Pixel cookies, the University will collect data on the time a user spends on a specific webpage and their scrolling activity through its tools, without storing such data. This information will be automatically transmitted from the University to Pixel if the user remains on the page for more than 45 seconds and scrolls at least 60% of the page.</li></p></ul><p class="bodytext">The University only has access to anonymised and aggregated statistical data provided by these platforms. It acts as a joint data controller with these providers, in accordance with the ruling C-210/16 of 5 June 2018 by the Court of Justice of the European Union. The legal basis for this processing is Article 6.1(a) of the Regulation (“consent of the data subject”).</p>
+<p class="bodytext">You can always manage your cookie preferences through the browser setting. If you disable all cookies, please note that some activities on the website will not be possible anymore (i.e. the ones on the pages accessible in the Personal Area). To find out more on how to manage cookies through browser settings, please visit:</p><ul><li>Internet Explorer: <a href="http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11" target="_blank" rel="noreferrer">http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11</a></li><li>Microsoft Edge: <a href="https://support.microsoft.com/help/4027947" target="_blank" rel="noreferrer">https://support.microsoft.com/help/4027947</a></li><li>Google Chrome:&nbsp;<a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en-GB" target="_blank" rel="noreferrer">https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en-GB</a></li><li>Apple Safari: <a href="https://support.apple.com/en-gb/guide/safari/sfri11471/mac" target="_blank" rel="noreferrer">https://support.apple.com/en-gb/guide/safari/sfri11471/mac</a></li><li>Mozilla Firefox:&nbsp;<a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer" target="_blank" rel="noreferrer">https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer</a></li><li>Opera:&nbsp;<a href="http://help.opera.com/Windows/10.00/it/cookies.html" target="_blank" rel="noreferrer">http://help.opera.com/Windows/10.00/it/cookies.html</a></li></ul><p class="bodytext">If you want to know more about profiling cookies on your browser, please visit&nbsp;<a href="https://www.youronlinechoices.com/" target="_blank" rel="noreferrer">http://www.youronlinechoices.com</a><a href="https://www.youronlinechoices.com/" target="_blank" rel="noreferrer">.</a>.<br /> </p>
+<h4>4. Means of data processing</h4>
+<p class="bodytext">The processing of personal data will be carried out by authorized employees (in compliance with Article 29 of the Regulation and art. 2-quaterdecies of D. Lgs. 196/2003), with the use of computerized procedures, adopting appropriate technical and organizational measures to protect them from unauthorized or illegal access, destruction, loss of integrity and confidentiality, even if accidental in nature.</p>
+<h4>5. Data retention</h4>
+<p class="bodytext">For information on the retention period of each cookie, please refer to the list below.</p>
+<h4>6. Recipients and categories of recipients of personal data and data transfer outside the European Economic Area</h4>
+<p class="bodytext">For the purposes set out above, in addition to specifically authorized employees and collaborators of the University, personal data may also be processed by those who execute outsourced activities on behalf of the University&nbsp; in their capacity as data processors (the updated list is available at:&nbsp;<a href="https://www.unive.it/pag/36643/" target="_top">List of data recipients</a>).</p>
+<p class="bodytext">Personal data collected by third party cookies may be transferred outside the European Economic Area (EEA) in compliance with the provisions of the Regulation.</p>
+<h4>7. Data subjects rights and how to exercise them</h4>
+<p class="bodytext">As a data subject, you have the right to obtain from the University, in the cases provided for by the Regulation, access to your personal data, their rectification, integration, deletion, and restriction of processing, as well as the right to object to processing and withdraw consent (Articles 15 et seq. of the Regulation).</p>
+<p class="bodytext">Requests may be submitted without any formalities by directly contacting the Data Protection Officer at <i class="bi bi-envelope"></i>&nbsp;<a href="mailto:dpo@unive.it">dpo@unive.it</a> or by sending a communication to the following address: Ca' Foscari University of Venice - Data Protection Officer, Dorsoduro 3246, 30123 Venice. Alternatively, you can contact the Data Controller, by writing a PEC (certified email) to <i class="bi bi-envelope"></i>&nbsp;<a href="mailto:protocollo@pec.unive.it">protocollo@pec.unive.it</a>.</p>
+<p class="bodytext">Data subjects who believe that the processing of their personal data violates the Regulation's provisions have the right to file a complaint with the Data Protection Authority, (art. 77 of the Regulation), or to take legal action (art. 79 of the Regulation).</p>
+<h4>Appendix on social media:</h4>
+<p class="bodytext">As a supplement to the information provided pursuant to Article 13 of Regulation (EU) 2016/679 (available at the following link:&nbsp;<a href="http://www.unive.it/pag/29567" target="_top">Information on the processing of personal data of the website users</a>), the University informs users accessing its institutional pages on social media platforms (e.g., Facebook, Instagram) that it processes, in an anonymous and aggregated form, statistical data made available by the providers of these platforms. The University acts as a joint data controller with these providers, in accordance with the ruling C-210/16 of 5 June 2018 by the Court of Justice of the European Union.</p>
+<p class="bodytext">Furthermore, the University processes personal data users provide through its social media pages strictly within the scope of its institutional purposes, solely to manage interactions with users such as comments, public posts, etc.</p>
+<p class="bodytext">Lastly, the Website contains social media buttons—links that redirect users to the University’s accounts on the displayed social networks (e.g., Facebook, YouTube, X, and LinkedIn). These buttons allow users to interact with social media platforms with a single click. The use of these buttons does not result in the installation of third-party cookies on the Website; they simply provide direct access to the University's social media accounts.</p>
+<p class="bodytext"><strong>Last updated: 19/02/2025</strong></p></div>
+<div class="tab-pane fade" id="lista" role="tabpanel" aria-labelledby="lista-tab"><div class="table-responsive"><h4>List of cookies</h4>
+				<table data-role="table " class="table last-left">
+					<caption>Last update of the list of cookies: 19/02/2025</caption><thead>
+					<tr class="tr-even tr-0">
+							<th class="td-0" scope="col" id="col528157-0">Type</th>
+							<th class="td-1" scope="col" id="col528157-1">Name</th>
+							<th class="td-2" scope="col" id="col528157-2">Sender (Domain)</th>
+							<th class="td-3" scope="col" id="col528157-3">Description</th>
+							<th class="td-4" scope="col" id="col528157-4">Duration</th>
+							<th class="td-last td-5" scope="col" id="col528157-5">Policy</th>
+					</tr>
+					</thead><tbody>
+					<tr class="tr-odd tr-1">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_shibsession[*], _shibsstate[*]</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">They maintain the session data of the SingleSignOn.</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-even tr-2">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">PHPSESSID</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">Unique user identifier for the website applications.</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-3">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">cookie[*]</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">It stores the user's preferences on cookies. user preferences on cookies.</td>
+							<td class="td-4" headers="col528157-4">1 month</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-even tr-4">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">cookie</td>
+							<td class="td-2" headers="col528157-2">idp.unive.it</td>
+							<td class="td-3" headers="col528157-3">It stores the user's preferences on cookies.</td>
+							<td class="td-4" headers="col528157-4">1 month</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-5">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">fe_typo_user</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">Unique user identifier for the reserved area of the website</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-even tr-6">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">JSESSIONID</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">Used to create web sessions into the Personal Area.</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-7">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">ADMCMD_prev</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">Used to create web sessions into the Personal Area.</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-even tr-8">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">unive.it</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">It stores the user's preferences on cookies.</td>
+							<td class="td-4" headers="col528157-4">6 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-9">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">noiframe</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">It stores the user's preferences on cookies.</td>
+							<td class="td-4" headers="col528157-4">6 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-even tr-10">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_pk_id[*]</td>
+							<td class="td-2" headers="col528157-2">unive/WAI</td>
+							<td class="td-3" headers="col528157-3">*</td>
+							<td class="td-4" headers="col528157-4">30 days</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank">Information by Matomo</a></td>
+					</tr>
+					<tr class="tr-odd tr-11">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_pk_ses[*]</td>
+							<td class="td-2" headers="col528157-2">unive/WAI</td>
+							<td class="td-3" headers="col528157-3">*</td>
+							<td class="td-4" headers="col528157-4">1 day</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank">Information by Matomo</a></td>
+					</tr>
+					<tr class="tr-even tr-12">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_pk_ref[*]</td>
+							<td class="td-2" headers="col528157-2">unive/WAI</td>
+							<td class="td-3" headers="col528157-3">*</td>
+							<td class="td-4" headers="col528157-4">6 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank">Information by Matomo</a></td>
+					</tr>
+					<tr class="tr-odd tr-13">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_gsas[*]</td>
+							<td class="td-2" headers="col528157-2">unive/google</td>
+							<td class="td-3" headers="col528157-3">It stores the user's preferences on cookies.</td>
+							<td class="td-4" headers="col528157-4">3 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer">Information by Google</a></td>
+					</tr>
+					<tr class="tr-even tr-14">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">_opensaml_req_cookie%[*]</td>
+							<td class="td-2" headers="col528157-2">unive</td>
+							<td class="td-3" headers="col528157-3">Authentication and SingleSignOn (shibboleth)</td>
+							<td class="td-4" headers="col528157-4">session</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-15">
+							<td class="td-0" headers="col528157-0">Google - Youtube</td>
+							<td class="td-1" headers="col528157-1">__Secure-1PAPISID</td>
+							<td class="td-2" headers="col528157-2">Google (google.com)</td>
+							<td class="td-3" headers="col528157-3">Used for targeting purposes in order to acquire web visitors' interests and show them pertinent and customised Google advertising.</td>
+							<td class="td-4" headers="col528157-4">2 years</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer">Information by Google</a></td>
+					</tr>
+					<tr class="tr-even tr-16">
+							<td class="td-0" headers="col528157-0">Google - Youtube</td>
+							<td class="td-1" headers="col528157-1">CONSENT</td>
+							<td class="td-2" headers="col528157-2">Google (google.com)</td>
+							<td class="td-3" headers="col528157-3">Used by Google to store the user's preferences.</td>
+							<td class="td-4" headers="col528157-4">17 years</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer">Information by Google</a></td>
+					</tr>
+					<tr class="tr-odd tr-17">
+							<td class="td-0" headers="col528157-0">Google - Youtube</td>
+							<td class="td-1" headers="col528157-1">__Secure-1PSID</td>
+							<td class="td-2" headers="col528157-2">Google (google.com)</td>
+							<td class="td-3" headers="col528157-3">Used for targeting purposes in order to acquire web visitors' interests and show them pertinent and customised Google advertising.</td>
+							<td class="td-4" headers="col528157-4">2 years</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer">Information by Google</a></td>
+					</tr>
+					<tr class="tr-even tr-18">
+							<td class="td-0" headers="col528157-0">Essential</td>
+							<td class="td-1" headers="col528157-1">Socialpix</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">They are used to record cookie preferences</td>
+							<td class="td-4" headers="col528157-4">6 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.unive.it/pag/29567/">Information by Ca' Foscari University</a></td>
+					</tr>
+					<tr class="tr-odd tr-19">
+							<td class="td-0" headers="col528157-0">Facebook - Pixel</td>
+							<td class="td-1" headers="col528157-1">_fbp</td>
+							<td class="td-2" headers="col528157-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528157-3">Tracks users for retargeting advertising on Facebook</td>
+							<td class="td-4" headers="col528157-4">3 months</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.facebook.com/privacy/policies/cookies">Information by Facebook</a></td>
+					</tr>
+					<tr class="tr-even tr-last">
+							<td class="td-0" headers="col528157-0">Facebook - Pixel</td>
+							<td class="td-1" headers="col528157-1">datr</td>
+							<td class="td-2" headers="col528157-2">Facebook</td>
+							<td class="td-3" headers="col528157-3">Marketing</td>
+							<td class="td-4" headers="col528157-4">2 anni</td>
+							<td class="td-last td-5" headers="col528157-5"><a href="https://www.facebook.com/privacy/policies/cookies">Information by Facebook</a></td>
+					</tr></tbody>
+				</table></div>                    </div>
+                </div>
+            </div>           
+              
+         </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>    
+
+
+
+<!-- Template by Stefano Bonetta  -->
+
+<script src="/pag/typo3temp/compressor/js_unive-00b61c9c359561c7348ead976939c5e6.js?1768403902" type="text/javascript"></script>
+
+
+</body>
+</html>

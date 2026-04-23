@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>Shibboleth Authentication Request</title>
+	</head>
+	<body onload="document.forms[0].submit()">
+
+		<h1>Shibboleth Authentication Request</h1>
+		
+		<script type="text/javascript">
+		<!--	
+		document.write("<p>You are automatically being redirected to the authentication service. ");
+		document.write("If the browser appears to be hung up after 15-20 seconds, try reloading ");
+		document.write("the page before contacting the technical support staff in charge of the ");
+		document.write("authentication service you are trying to access.</p>");
+		document.write("<h2>Redirecting...</h2>");
+		// -->
+		</script>
+		
+		<noscript>
+		<p>
+		<strong>Note:</strong> Since your browser does not support JavaScript, you must press the
+		Continue button once to proceed to the authentication service.
+		</p>
+		</noscript>
+	
+		<form method="POST" action="https&#58;//idp.unive.it/idp/profile/SAML2/POST/SSO">
+		
+		
+			<input type="hidden" name="RelayState" value="cookie&#58;1776977495_2ab2"/>
+		
+		
+			<input type="hidden" name="SAMLRequest" value="PHNhbWxwOkF1dGhuUmVxdWVzdCB4bWxuczpzYW1scD0idXJuOm9hc2lzOm5h
+bWVzOnRjOlNBTUw6Mi4wOnByb3RvY29sIiBBc3NlcnRpb25Db25zdW1lclNl
+cnZpY2VVUkw9Imh0dHBzOi8vd3d3LnVuaXZlLml0L2RhdGFzcC9TaGliYm9s
+ZXRoLnNzby9TQU1MMi9QT1NUIiBEZXN0aW5hdGlvbj0iaHR0cHM6Ly9pZHAu
+dW5pdmUuaXQvaWRwL3Byb2ZpbGUvU0FNTDIvUE9TVC9TU08iIElEPSJfYjhm
+NGEyZThmMmYxNzYxMWNjY2I0NDU3NWVjYzZhZGQiIElzc3VlSW5zdGFudD0i
+MjAyNi0wNC0yM1QyMDo1MTozNVoiIFByb3RvY29sQmluZGluZz0idXJuOm9h
+c2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmJpbmRpbmdzOkhUVFAtUE9TVCIgVmVy
+c2lvbj0iMi4wIj48c2FtbDpJc3N1ZXIgeG1sbnM6c2FtbD0idXJuOm9hc2lz
+Om5hbWVzOnRjOlNBTUw6Mi4wOmFzc2VydGlvbiI+aHR0cHM6Ly9kYXRhLnVu
+aXZlLml0L3NoaWJib2xldGg8L3NhbWw6SXNzdWVyPjxzYW1scDpOYW1lSURQ
+b2xpY3kgQWxsb3dDcmVhdGU9IjEiLz48L3NhbWxwOkF1dGhuUmVxdWVzdD4=
+"/>
+		
+		
+		
+		
+		
+        
+		<noscript>
+		<div>
+		<input type="submit" value="Continue"/>
+		</div>
+		</noscript>
+		</form>
+	</body>
+</html>

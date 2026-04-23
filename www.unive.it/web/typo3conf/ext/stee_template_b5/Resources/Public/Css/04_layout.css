@@ -1,0 +1,611 @@
+/*******************************************************/
+/*******************************************************/
+/*					header		 		      	   */
+/*******************************************************/
+/*******************************************************/
+.unive_header {
+	background-color: var(--bs-sfondo-colore-bianco);
+}
+/*******************************************************/
+/*             logo-sezione-percorsi                    */
+/*******************************************************/
+.unive_header > .logo-sezione-percorsi a.logo-unive > img.img-fluid,
+.unive_header > .logo-sezione-percorsi a.logo-header > img.img-responsive {
+	float: left;
+	padding: 0;
+	margin: 8px 0 8px 0;
+	height: 40px;
+	width: auto; 
+}
+.unive_header > .logo-sezione-percorsi span.site-name {
+	float: left;
+	color: var(--bs-colore-testo-grigio-scuro);
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 14px;
+	padding: 4px 0 0 10px;
+	margin: 0;
+	border: none;
+	background: none; 
+}
+.unive_header > .logo-sezione-percorsi span.site-name a {
+	color: var(--bs-colore-testo-grigio-scuro); 
+}
+.unive_header > .logo-sezione-percorsi span.site-name a:hover {
+	text-decoration: underline;
+    text-decoration-thickness: var(--bs-spessore-sottolineatura-link-over); 
+}
+/*******************************************************/
+/*             mail riservata                   */
+/*******************************************************/
+.mail_riservata .list-group-item {
+	font-size: 0.9rem;
+    display: block; 
+    background-color: var(--bs-colore-velato);
+	border-color: var(--bs-colore-grigio-medio);
+	border-radius: 0;
+	border-top: 0;
+	padding-top: 3px;
+	padding-bottom: 2px;
+	margin-left: 4px;
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,0.1), 0 1px 2px -1px rgba(0,0,0,0.1);
+}
+.mail_riservata .list-group-horizontal>.list-group-item:first-child:not(:last-child) {
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+	border-left-color: var(--bs-colore-grigio-chiaro); 
+}
+.mail_riservata .list-group-horizontal>.list-group-item:last-child:not(:first-child) {
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 10px;
+}
+.mail_riservata .list-group-horizontal {
+    justify-content: flex-end !important;
+}
+.mail_riservata .list-group-horizontal>a.list-group-item {
+	font-weight: 400;
+	text-decoration: none;
+}
+.mail_riservata .list-group-horizontal>a.list-group-item:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+    background-color: var(--bs-colore-sottolineatura-link);
+}
+.mailriservata-mobile .list-group-item{
+    font-weight: 400;
+    padding-top: .5rem;
+}
+.mailriservata-mobile .list-group-item:hover{
+	color: #FFFFFF;
+    text-decoration: underline;
+}
+/*					percorsi	 	      	   */
+/*******************************************************/
+div.nav-percorsi {
+	margin: 0;
+	padding: 0;
+	float: right; 
+}
+div.nav-percorsi > ul.menu_percorsi {
+	text-align: right;
+	padding: 0;
+	margin-bottom: 0;
+	list-style: none;
+	background-color: transparent; 
+}
+div.nav-percorsi > ul.menu_percorsi > li {
+	display: inline-block;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	padding: 0;
+	margin: 15px 5px 5px 15px; 
+}
+div.nav-percorsi > ul.menu_percorsi > li > a {
+	font-weight: 600;
+	text-decoration: none; 
+}
+div.nav-percorsi > ul.menu_percorsi > li > a:hover {
+	text-decoration: none;
+}
+/*******************************************************/
+/*             logo-sezione                   */
+/*******************************************************/
+.unive_header > .logo-sezione {
+    background-color: transparent; 
+}
+.unive_header > .logo-sezione .logo_unive > img.logo-moeca.img-fluid {
+    float: left;
+    padding: 0;
+    margin: 8px 0 6px 0;
+    height: 46px;
+    width: auto;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out; }
+
+.unive_header > .logo-sezione .logo_unive.logo-medio > img.logo-moeca.img-fluid {
+    height: 58px;
+    width: auto;
+    margin: 12px 0 12px 0;
+}
+.unive_header > .logo-sezione .logo-piccolo > .logo_unive > a {
+    color: var(--bs-colore-testo-grigio-scuro);
+    float: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 14px;
+    margin: 8px 15px 8px 10px;
+    padding: 0; 
+}
+.unive_header > .logo-sezione .logo-medio > .logo_unive > a {
+    color: var(--bs-colore-testo-grigio-scuro);
+    float: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    margin: 8px 15px 8px 10px;
+    padding: 0; 
+}
+.unive_header > .logo-sezione a:hover {
+	text-decoration: underline;
+    text-decoration-thickness: var(--bs-spessore-sottolineatura-link-over); 
+}
+.unive_header > .logo-sezione a small {
+    font-weight: 300; 
+}
+.unive_header > .logo-sezione span.section-name {
+    height: 50px;
+    color: var(--bs-colore-testo-grigio-scuro);
+    float: left;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    padding: 15px 0 6px 15px;
+    margin: 6px 0 0 0;
+    border: none;
+    background: none;
+    border-left: 1px solid #bbb;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out; 
+}
+.unive_header > .logo-sezione .logo-medio span.section-name {
+    font-size: 1.4rem;
+    padding: 23px 0 0 15px;
+    height: 70px; 
+}
+.unive_header > .logo-sezione span.section-name a {
+    color: var(--bs-colore-testo-grigio-scuro); 
+}
+.logo-sezione-percorsi .nav-warning {
+    display: inline-block;
+    float: left;
+    padding-top: 10px; 
+}
+/*******************************************************/
+/*					warning	 	      	   */
+/*******************************************************/
+header.unive_header > div.rosso_unive.hidden-md.hidden-lg {
+    text-align: center;
+    padding: 6px; 
+}
+.logo-sezione .nav-warning {
+    display: inline-block;
+    float: right;
+}
+.rosso_unive.hidden-md.hidden-lg button.btn.btn-default,
+.nav-warning.text-left > button.btn.btn-default {
+    border-radius: 20px; 
+}
+/*******************************************************/
+/*             navbar                    */
+/*******************************************************/
+.navbar-light .navbar-nav .nav-link:focus, 
+.navbar-light .navbar-nav .nav-link:hover {
+	text-decoration: none;
+}
+li.dropdown > a.nav-link,
+li.nav-item > a.nav-link {
+    font-weight: 400;
+    font-size: var(--bs-navbar-brand-font-size); 
+}
+.navbar-dark .navbar-nav .nav-link{
+	color: #FFFFFF;  
+}
+.navbar-dark .navbar-nav .nav-link:focus, 
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: var(--bs-list-group-action-color) !important;
+	border-radius: var(--bs-border-radius-leggero);
+	background-color: var(--bs-sfondo-colore-bianco);
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.active{
+    color: var(--bs-list-group-action-color);
+	border-radius: var(--bs-border-radius-leggero);
+	background-color: var(--bs-sfondo-colore-bianco);
+}
+nav button.navbar-toggler {
+	color: #FFFFFF;
+  	border: none; 
+}
+.navbar-dark.bg-unive .navbar-toggler-icon {
+    color: #FFFFFF !important;
+}
+nav button.navbar-toggler {
+    border: none; 
+}
+/*             linea			*/
+nav.navbar.sticky-top.navbar-light.bg-white {
+    border-bottom: 0; 
+}
+nav.navbar.sticky-top.menu-scroll {
+    border-bottom: 0 solid var(--bs-colore-rosso-unive);
+    box-shadow: 0 0 10px rgba(0,0,0,.15),0 3px 3px rgba(0,0,0,.15); 
+}
+nav.navbar.sticky-top.navbar-dark.bg-rosso.menu-scroll {
+    border-bottom: 1px solid var(--bs-colore-rosso-unive);
+    box-shadow: 0 0 10px rgba(0,0,0,.15),0 3px 3px rgba(0,0,0,.15); 
+}
+nav.navbar.sticky-top.navbar-light.bg-white.menu-scroll {
+    border-bottom: 1px solid var(--bs-colore-grigio-medio);
+    box-shadow: 0 0 10px rgba(0,0,0,.15),0 3px 3px rgba(0,0,0,.15); 
+}
+nav.navbar.sticky-top.navbar-light.bg-white.internal-2-col > div.container-xxl {
+    border-bottom: 1px solid var(--bs-colore-grigio-medio); 
+}
+nav.navbar.sticky-top.navbar-light.bg-white.internal-2-col.menu-scroll > div.container-xxl {
+    border-bottom: 0 solid var(--bs-colore-grigio-medio); 
+}
+.navbar-dark.bg-unive .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+.navbar-dark.bg-unive  .navbar-nav .nav-link.active, 
+.navbar-dark.bg-unive  .navbar-nav .show > .nav-link {
+    color: rgba(255,255,255,.55);
+}
+.bg-sito .offcanvas-title,
+.bg-sito .offcanvas-title a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+@media only screen and (min-width : 1200px){
+    .navbar-expand-xl .navbar-collapse {
+      max-width: 305px;
+    }
+}
+.bg-rosso .btn-close {
+    opacity: .9;
+}
+.bg-arancio .bg-rosso .nav-link {
+    color: #FFFFFF;
+}
+.bg-arancio .bg-rosso .navbar-nav .nav-link.active {
+    color: rgba(255, 255, 255, .75);
+	border-radius: var(--bs-border-radius-leggero);
+}
+@media only screen and (min-width : 1200px){
+	.bg-arancio .bg-rosso .nav-link {
+		color: #000000;
+	}
+	.bg-arancio .bg-rosso .navbar-nav .nav-link.active {
+		color: var(--bs-colore-testo-grigio-scuro);
+	}
+}
+.navbar-nav .bi, 
+.navbar-nav .bi {
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+    fill: currentcolor
+}
+.navbar-nav .dropdown-menu .active .bi,
+.navbar-nav .dropdown-menu .active .bi {
+    display: block !important;
+}
+/*******************************************************/
+/*             percorsi mobile                   */
+/*******************************************************/
+nav.navbar .nav-percorsi-mobile > ul.menu_percorsi {
+	list-style-type: none;
+	padding: 20px 0 0 0;
+	column-count: 2;
+}
+nav.navbar .nav-percorsi-mobile > ul.menu_percorsi > li  {
+	padding: 0 0 20px 0;
+  }
+nav.navbar.bg-rosso .nav-percorsi-mobile > ul.menu_percorsi > li > a {
+	text-decoration: none;
+      color: #FFFFFF; }
+nav.navbar.bg-rosso .nav-percorsi-mobile > ul.menu_percorsi > li > a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: var(--bs-spessore-sottolineatura-link-over);
+}
+/*******************************************************/
+/*             localizzazione                    */
+/*******************************************************/
+.tasto-dark{
+    padding-top: 0.1rem;
+}
+/*******************************************************/
+/*             localizzazione                    */
+/*******************************************************/
+.localizzazione a,
+.mailriservata a{
+    font-size: 18px;
+    font-weight: 300; 
+}
+.localizzazione a:before,
+.mailriservata a:before {
+    content: "\f231";
+    font-family: bootstrap-icons !important;
+    font-size: 12px;
+    padding-right: 8px;
+    padding-left: 8px;
+    color: var(--bs-colore-rosso-unive); 
+}
+/*******************************************************/
+/*             logo                    */
+/*******************************************************/
+.navbar-header {
+    padding: 0;
+    margin: 0; 
+}
+.navbar-header > a.navbar-brand {
+    padding: 0;
+    margin: 0;
+    float: left; 
+}
+.navbar-header > a.navbar-brand > img.img-fluid,
+.navbar-header > a.navbar-brand > img.img-responsive {
+    height: 48px;
+    padding: 0;
+    margin: 0 4px 0 10px; 
+}
+.navbar-header > span.navbar-brand,
+.navbar-header > a.navbar-brand {
+    display: inline;
+    float: left;
+    line-height: 13px;
+    padding: 0;
+    margin: 0 0 0 4px; 
+}
+.navbar-header > a.navbar-brand > span {
+    line-height: 10px;
+    padding: 0;
+    margin: 4px 0 0 0; 
+}
+.navbar-dark .navbar-header > span a{
+    color: #FFFFFF;  
+}
+/*******************************************************/
+/*             sub-header                    */
+/*******************************************************/
+div.sub-header {
+    color: var(--bs-colore-testo-grigio-scuro);
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 400;
+    padding: 4px 0 6px 0;
+    margin: 0;
+    background-color: var(--bs-colore-grigio-chiaro-fondo);
+    box-shadow: 0 0 10px rgba(0,0,0,.15),0 3px 3px rgba(0,0,0,.15);
+}
+/*******************************************************/
+/*             path                    */
+/*******************************************************/
+.breadcrumb {
+    background-color: transparent;
+    padding: .75rem .0rem; 
+}
+.breadcrumb > .breadcrumb-item > a {
+	text-decoration: none;
+}
+.breadcrumb > .breadcrumb-item > a:hover{
+	color: var(--bs-colore-rosso-link-hover) !important;
+	text-decoration: none;
+    background-size: 100% 98%;
+}
+nav.text-white .breadcrumb-item+.breadcrumb-item: :before {
+    color:  var(--bs-colore-grigio); 
+}
+nav.text-white .breadcrumb > .breadcrumb-item > a{
+	font-weight: 500;
+	color: #FFFFFF;
+}
+/*******************************************************/
+/*******************************************************/
+/*						contenuto	 			      	   */
+/*******************************************************/
+/*******************************************************/
+@media only screen and (min-width : 1200px){
+	div.contenuto-pagina {
+		min-height: calc(100vh - 554px);
+	}
+}
+/*******************************************************/
+/*******************************************************/
+/*						MENU LEFT	 			      	   */
+/*******************************************************/
+/*******************************************************/
+.menu_left {
+	position: sticky;
+	top: 5.6rem;
+	margin: 20px 10px 20px 0;
+}
+.menu_left div.card>.list-group-flush .list-group-item.list-group-item-action {
+	font-size: 1.0rem;
+	padding: 0.4rem 1rem 0.8rem 2.8rem;
+}
+.menu_left div.card > .list-group-flush .list-group-item.list-group-item-action:before{
+    font-size: 1.1rem;
+    padding-right: 0.9rem;
+	margin-left: -2.0rem;
+}
+.menu_left .spacer{
+	font-size: 1.2rem;
+    font-weight: 500;
+	padding: 1.0rem 1rem 0.4rem 0.8rem;
+}
+/*******************************************************/
+/*******************************************************/
+/*						FOOTER	 			      	   */
+/*******************************************************/
+/*******************************************************/
+footer{
+	border-top: 0 solid #FFFFFF;
+	margin-top: 0;
+}
+/*******************************************************/
+/*			 			last Change				   	   */
+/*******************************************************/
+p.cms-last-lastChange.text-right{
+	margin-top: 20px;
+}
+/*******************************************************/
+/*			 			footer			   	   */
+/*******************************************************/
+footer h4{    
+	font-size: 1.2rem;
+}
+footer.bottom .bg-grigio p.link-con-freccia{
+  	margin: 4px 0 36px 0; }
+footer a.img-link img.social{
+    width: 30px;
+    margin: 4px 4px 4px 4px;
+    padding: 0;
+}
+footer div.bg-grigio a.img-link img.social{
+	float: right;
+}
+footer img.img-fluid.hr-logo,
+footer img.img-responsive.hr-logo{
+	padding: 0;
+	margin: 0;
+	width: 140px;
+}
+@media only screen and (max-width : 767px){
+	footer img.img-fluid.hr-logo,
+	footer img.img-responsive.hr-logo{
+		margin-bottom: 60px;
+	}
+	footer.bottom .grigio_scuro_unive  p.text-right{
+		text-align: left;
+	}
+}
+/*******************************************************/
+/*			 			full				   	   */
+/*******************************************************/
+footer.bottom > div.rosso_unive{
+	margin: 0;
+	padding: 24px 0 24px 0;
+	border: none;
+}
+footer.bottom>div.full.bg-light-unive.text-dark,
+footer.bottom>div.bg-light{
+	padding-top: 2.4rem;
+	padding-bottom: 1.2rem;
+	margin: 0;
+}
+footer.bottom > div.full.bg-grigio.text-white{
+	padding-top: 2.4rem;
+	padding-bottom: 1.2rem;
+	margin: 0;
+}
+footer.bottom > div.full.bg-grigio.text-white a{
+	color: var(--bs-colore-grigio-chiaro);
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+}
+@media only screen and (min-width : 992px){
+	footer.bottom > div.full.bg-grigio.text-white{
+		background-image: url(../img/logo-unive/bg_logo_gray_400x400.png);
+		background-position: 50% -80%;
+		background-repeat: no-repeat;
+	}
+}
+footer div.bg-light-unive  h2,
+footer div.bg-light  h2{
+  	text-align: left;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+/*******************************************************/
+
+/*******************************************************/
+/*						 cookie	 			      	   */
+/*******************************************************/
+.modal .modal-full.modal-bottom {
+    bottom: 0;
+	border-radius: 0;
+}
+.modal .modal-full {
+    position: absolute;
+    width: 100%;
+    max-width: 100% !important;
+    margin: 0 !important;
+}
+.modal-header.cookie {
+    padding-bottom: 0.2rem;
+    border-bottom: 0;
+}
+.modal-body.cookie {
+	padding-top: 1.5rem;
+}
+.modal-body.cookie h5{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.modal-body.cookie p{
+	font-size: 0.9rem;
+	font-weight: 300;
+	line-height: 1.5;
+}
+.modal-body.cookie .nav-pills .nav-link.active, 
+.modal-body.cookie .nav-pills .show > .nav-link {
+	color: #000000;
+	background-color: var(--bs-colore-velato);
+	border-radius: 0;
+}
+.modal-body.cookie ul >li{
+	font-size: 0.9rem;
+	font-weight: 300;
+}
+@media (min-width: 576px){
+	.modal-full.modal-bottom.modal-dialog-scrollable .modal-content {
+		max-height: calc(50vh - 3.5rem);
+	}
+}
+.modal-dialog.modal-lg > div.modal-content > div.list-group.list-group-flush{
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+/*******************************************************/
+/*						 go up	 			      	   */
+/*******************************************************/
+#top{
+	border: 1px solid var(--bs-colore-grigio);
+	background: var(--bs-colore-velato);
+	text-align: center;
+	padding: 10px;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	cursor: pointer;
+	display: none;
+	color: var(--bs-colore-testo-grigio-scuro);
+	font-family: verdana;
+	font-size: 12px;
+	border-radius: 100px;
+	width: 40px;
+}

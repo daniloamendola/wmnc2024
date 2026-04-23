@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="it" data-bs-theme = "auto">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Human Resources Strategy for Researchers: Università Ca' Foscari Venezia</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Università Ca' Foscari Venezia">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@CaFoscari">
+<meta name="description" content="Human Resources Strategy for Researchers">
+<meta property="og:url" content="https://www.unive.it/pag/12314/">
+<meta property="og:title" content="Human Resources Strategy for Researchers:Università Ca' Foscari Venezia">
+<meta name="twitter:url" content="https://www.unive.it/pag/12314/">
+<meta name="twitter:title" content="Human Resources Strategy for Researchers:Università Ca' Foscari Venezia">
+
+
+<link rel="stylesheet" type="text/css" href="/pag/typo3temp/compressor/merged-7701c55260b39c855a841ea9929d0744-c8d0faa101cfb2dd00afa8757e054998.css?1770643615" media="all">
+
+
+
+<script src="/pag/typo3temp/compressor/jquery.min-456ba9af580c39696f9dd61e4ffb604d.js?1712218263" type="text/javascript"></script>
+
+
+<link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-300italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-regular.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-600.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-600italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-700.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext_latin-700italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext-800.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/open-sans-v15-latin-ext-800italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-100.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-100italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-300.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-regular.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-300italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-500.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-500italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-700.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-700italic.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-900.woff2" as="font" /><link rel="preload" href="/pag/templates/unive_b5/fonts/roboto-v18-latin-ext_latin-900italic.woff2" as="font" />
+	<!--
+		pagina: '/ATENEO/Università_Ca_Foscari_Venezia/Ricerca/Lavorare_nella_ricerca/Human_Resources_Strategy_for_Researchers'
+	-->
+			<!-- facebook pixel -->
+			<script >
+				var univeFbPixel = function (){
+					if (document.cookie.split(';').some((item) => item.includes('socialpix=checked'))){
+
+						!function(f,b,e,v,n,t,s)
+						{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+						n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+						if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+						n.queue=[];t=b.createElement(e);t.async=!0;
+						t.src=v;s=b.getElementsByTagName(e)[0];
+						s.parentNode.insertBefore(t,s)}(window,document,'script',
+						'https://connect.facebook.net/en_US/fbevents.js');
+						fbq('init', '671717453353946'); 
+						fbq('track', 'PageView');
+						
+						setTimeout(function(){
+							fbq('trackCustom', 'TimeOnPage');
+							//console.log('tempo');
+						}, 45000);
+						var scrollReached =false;
+						var halfbrowserHeight =$(window).height() *0.6;
+						$(window).scroll(function () {
+							if (scrollReached) return false;
+							var distance =$(window).scrollTop();
+							if (distance < halfbrowserHeight) return false;
+							scrollReached = true;
+							fbq('trackCustom', 'ScrolledPage');
+							//console.log('scroll');
+						});
+
+					}
+				}
+				$(function(){
+					univeFbPixel();
+				});
+			</script>
+			
+			<!-- Web Analytics Unive -->
+			
+			<script>
+			  var _paq = window._paq = window._paq || [];
+			  
+			  (function() {
+				var u='https://ingestion.webanalytics.italia.it/';
+				_paq.push(['setTrackerUrl', u+'matomo.php']);
+				_paq.push(['setSiteId', 'wGpbnPWpYb']);
+    			_paq.push(['addTracker', u+'matomo.php', 'EN0VJyW0rl']);
+				
+				var u='https://matomo.unive.it/matomo/';
+    			_paq.push(['addTracker', u+'matomo.php', '1']);
+    			_paq.push(['addTracker', u+'matomo.php', '3']);
+				
+				window.piwikAsyncInit = function () {
+					var u='https://ingestion.webanalytics.italia.it/';
+					var tracker1 = Piwik.getAsyncTracker(u+'matomo.php', 'wGpbnPWpYb');
+					tracker1.setCustomUrl('https://www.unive.it/ATENEO/Università_Ca_Foscari_Venezia/Ricerca/Lavorare_nella_ricerca/Human_Resources_Strategy_for_Researchers');
+					tracker1.trackPageView();
+					tracker1.enableLinkTracking();
+					
+					var tracker2 = Piwik.getAsyncTracker(u+'matomo.php', 'EN0VJyW0rl');
+					tracker2.trackPageView();
+					tracker2.enableLinkTracking();
+					
+					var u='https://matomo.unive.it/matomo/';
+					var tracker3 = Piwik.getAsyncTracker(u+'matomo.php', '1');
+					tracker3.setCustomUrl('https://www.unive.it/ATENEO/Università_Ca_Foscari_Venezia/Ricerca/Lavorare_nella_ricerca/Human_Resources_Strategy_for_Researchers');
+					tracker3.trackPageView();
+					tracker3.enableLinkTracking();
+					
+					var tracker4 = Piwik.getAsyncTracker(u+'matomo.php', '3');
+					tracker4.trackPageView();
+					tracker4.enableLinkTracking();
+				}
+
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+			  })();
+			</script>
+
+			<!-- End Web Analytics Unive -->
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+	<symbol id="bootstrap" viewBox="0 0 118 94">
+		<path fill="currentColor" fill-rule="evenodd" d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 0 1-2-2V24a2 2 0 0 1 2-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863M60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207M49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281s-3.903-8.178-11.425-8.178H49.948z" clip-rule="evenodd"/>
+	</symbol>
+	<symbol id="check2" viewBox="0 0 16 16">
+		<path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0"/>
+	</symbol>
+	<symbol id="circle-half" viewBox="0 0 16 16">
+		<path d="M8 15A7 7 0 1 0 8 1zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16"/>
+	</symbol>
+	<symbol id="moon-stars-fill" viewBox="0 0 16 16">
+		<path d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278"/>
+		<path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.73 1.73 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.73 1.73 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.73 1.73 0 0 0 1.097-1.097zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.16 1.16 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.16 1.16 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732z"/>
+	</symbol>
+	<symbol id="sun-fill" viewBox="0 0 16 16">
+		<path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708"/>
+	</symbol>
+</svg>
+<header class="unive_header" id="header">
+
+                             
+       
+    
+ 
+  
+            <div class="container-xxl logo-sezione d-none d-xl-block">
+                <div class="riga">
+                    <div class="row">
+			
+
+					<div class="col col-md-12 logo-medio d-flex">
+
+						<div class="logo_unive logo-medio position-relative">
+							<img alt="logo unive.it" 
+                                 class="logo-moeca img-fluid display-light" 
+                                 src="/pag/templates/img/logo_uni/CF_moeca_pos_124.png">
+							<img alt="logo unive.it" 
+                                 class="logo-moeca img-fluid display-dark" 
+                                 src="/pag/templates/img/logo_uni/CF_moeca_neg_124.png">
+							<a href="//www.unive.it/"><small>Università<br />Ca' Foscari<br />Venezia</Small></a><br>
+						</div>
+
+						
+
+						
+							
+						<div class="col text-end">
+							<div class="mail_riservata text-end pe-0 my-0">
+								<div class="list-group list-group-horizontal my-0 me-0">
+									<a class="list-group-item" href="https://www.unive.it/data/webmail/"><i class="bi bi-envelope-fill"></i> Webmail</a>
+<a class="list-group-item" href="https://www.unive.it/data/accesso"><i class="bi bi-person-fill"></i> Area riservata</a>
+								</div>	
+							</div>	
+
+						
+								<div class="percorsi-warning">   
+									<div class="nav-percorsi">
+										<ul class="menu_percorsi">
+  <li><a href="/pag/11741/">Future matricole</a></li>
+  <li><a href="/pag/11740/">Studenti e laureati</a></li>
+  <li><a href="/pag/34938/">Docenti e staff</a></li>
+  <li><a href="/pag/12290/">Enti e aziende</a></li>
+</ul>
+
+
+									</div>
+								</div>
+						
+						</div>
+
+					</div>
+
+				
+                    </div>
+                </div>
+            </div>
+    
+    
+</header>
+
+
+<main>
+
+    <nav class="navbar sticky-top navbar-expand-xl navbar-dark bg-rosso" aria-label="Offcanvas navbar large">
+        <div class="container-xxl">  
+    
+            <div class="navbar-header mr-auto">
+    
+                <a id="logo-sito"  class="navbar-brand logo-mobile d-xl-none" href="//www.unive.it/">
+                    <img alt="logo unive.it" class="img-fluid" src="/pag/templates/img/logo_uni/CF_moeca_neg_124.png">
+                </a>
+                <span class="navbar-brand logo-mobile d-xl-none" >
+                    <small><a href="//www.unive.it/"><small>Università<br />Ca' Foscari<br />Venezia</Small></a><br></small>
+                </span>
+    
+            </div>
+         
+            <div class="d-flex justify-content-end">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsearch" aria-controls="navbarsearch" aria-expanded="false" aria-label="Cerca - Search">
+                    <i class="bi bi-search"></i>
+                </button>
+    
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="mostra menu di navigazione - Toggle navigation">
+                    <i class="fs-2 bi bi-list"></i>
+                </button>
+            </div>
+    
+            <div class="offcanvas offcanvas-end text-white bg-rosso" tabindex="-1" id="offcanvasNavbar2" aria-labelledby="offcanvasNavbar2Label">
+                <div class="offcanvas-header">
+                    <p class="offcanvas-title fs-5" id="offcanvasNavbarLabel">
+                        Università Ca' Foscari Venezia
+                    </p>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+    
+    
+                    <div class="d-none d-xl-block">
+                        <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav">
+                            <li class="nav-item col-6 col-xl-auto"><a href="https://www.unive.it/" class="nav-link py-2 px-0 px-xl-2">Home</a></li><li class="nav-item col-6 col-xl-auto attivo"><a href="/pag/11609/" class="nav-link py-2 px-0 px-xl-3 mx-xl-3 active">Ricerca</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11593/" class="nav-link py-2 px-0 px-xl-2">Didattica</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/35151/" class="nav-link py-2 px-0 px-xl-2">Servizi</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/15707/" class="nav-link py-2 px-0 px-xl-2">Terza missione</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11618/" class="nav-link py-2 px-0 px-xl-2">Internazionale</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11595/" class="nav-link py-2 px-0 px-xl-2">Ateneo</a></li><li class="nav-item col-6 col-xl-auto"><a href="https://www.unive.it/sostienici" class="nav-link py-2 px-0 px-xl-2">Sostienici</a></li> 
+                        </ul>
+                    </div>	
+    
+
+                    
+                    <div class="d-xl-flex justify-content-end flex-grow-1 pe-0">
+    
+                        
+
+        <!--					<div class="card d-xl-none mt-0">
+                                <div class="card-body px-4 py-2">
+                                    ITA
+                                    <li class="page-item"><a href="http://www.unive.it/hrs4r" class="page-link bg-rosso text-white">ENG</a></li>
+                                </div>
+                            </div>-->
+                            <nav aria-label="lang" class="d-xl-none flex-grow-1 mt-0">
+                                <ul class="pagination">
+                                    <li class="page-item active" aria-current="page">
+                                        <span class="page-link fw-normal text-dark bg-white border-white">ITA</span>
+                                    </li>
+                                    <li class="page-item"><a href="http://www.unive.it/hrs4r" class="page-link bg-rosso text-white">ENG</a></li>
+                                </ul>
+                            </nav>
+
+                            <div class="d-none d-xl-block">  
+
+                                <ul class="navbar-nav ">
+                                    <li class="nav-item dropdown">
+
+                                        <a class="nav-link dropdown-toggle" href="#" id="localDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">    
+                                            ITA
+                                        </a>
+
+                                        <div class="dropdown-menu dropdown-menu-end localizzazione" aria-labelledby="localDropdown">
+                                            <a href="http://www.unive.it/hrs4r" class="dropdown-item">ENG</a>
+                                        </div>
+
+                                    </li>
+                                </ul>	
+
+                            </div>
+
+                        
+                        
+                        <ul class="navbar-nav pe-1">
+                            <li class="nav-item dropdown">
+                                <button class="btn btn-link nav-link px-0 px-lg-2 py-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (auto)"> 
+                                    <svg class="bi my-1 theme-icon-active" aria-hidden="true">
+                                        <use href="#circle-half"></use>
+                                    </svg> 
+                                    <span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span> 
+                                </button> 
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text"> 
+                                    <li>
+                                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true" >
+                                                <use href="#sun-fill"></use>
+                                            </svg>
+                                            Light
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                    <li> 
+                                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true">
+                                                <use href="#moon-stars-fill"></use>
+                                            </svg>
+                                            Dark
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                    <li> 
+                                        <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true"> 
+                                            <svg class="bi me-2 opacity-50" aria-hidden="true">
+                                                <use href="#circle-half"></use>
+                                            </svg>
+                                            Auto
+                                            <svg class="bi ms-auto d-none" aria-hidden="true">
+                                                <use href="#check2"></use>
+                                            </svg> 
+                                        </button> 
+                                    </li> 
+                                </ul> 
+                            </li>
+                        </ul> 
+                        
+                    </div>
+    
+                    <div class="d-xl-none">
+    
+                        <hr class="d-xl-none text-white opacity-100">
+    
+                        <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav">
+                            <li class="nav-item col-6 col-xl-auto"><a href="https://www.unive.it/" class="nav-link py-2 px-0 px-xl-2">Home</a></li><li class="nav-item col-6 col-xl-auto attivo"><a href="/pag/11609/" class="nav-link py-2 px-0 px-xl-3 mx-xl-3 active">Ricerca</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11593/" class="nav-link py-2 px-0 px-xl-2">Didattica</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/35151/" class="nav-link py-2 px-0 px-xl-2">Servizi</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/15707/" class="nav-link py-2 px-0 px-xl-2">Terza missione</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11618/" class="nav-link py-2 px-0 px-xl-2">Internazionale</a></li><li class="nav-item col-6 col-xl-auto"><a href="/pag/11595/" class="nav-link py-2 px-0 px-xl-2">Ateneo</a></li><li class="nav-item col-6 col-xl-auto"><a href="https://www.unive.it/sostienici" class="nav-link py-2 px-0 px-xl-2">Sostienici</a></li> 
+                        </ul>
+    
+                    </div>
+    
+                    
+                        <hr class="d-xl-none text-white opacity-100">
+                        <div class="nav-percorsi-mobile  d-xl-none">
+                            <ul class="menu_percorsi">
+  <li><a href="/pag/11741/">Future matricole</a></li>
+  <li><a href="/pag/11740/">Studenti e laureati</a></li>
+  <li><a href="/pag/34938/">Docenti e staff</a></li>
+  <li><a href="/pag/12290/">Enti e aziende</a></li>
+</ul>
+
+
+                        </div>
+                    
+    
+                    
+    
+                        <hr class="d-xl-none text-white opacity-100">
+    
+                        <div class="d-xl-none mailriservata-mobile">
+                            <a class="list-group-item" href="https://www.unive.it/data/webmail/"><i class="bi bi-envelope-fill"></i> Webmail</a>
+<a class="list-group-item" href="https://www.unive.it/data/accesso"><i class="bi bi-person-fill"></i> Area riservata</a>
+                        </div>
+    
+                    
+    
+                </div>
+            </div>
+    
+    
+            <div class="collapse navbar-collapse" id="navbarsearch">
+                    <div class="d-xl-none mt-3"></div>
+                    <form name="search" class="flex-fill" method="get" action="//www.unive.it/data/search" role="search">
+  
+  <div class="input-group my-1 me-1">
+    <input type="text" class="form-control border-light" placeholder="cerca in Unive.it" name="q" title="cerca">
+    <button class="btn btn-light border-light" type="submit" aria-label="cerca"><i class="bi bi-search"></i></button>
+  </div><!-- /input-group -->
+
+  
+</form>
+  
+            </div>
+    
+        </div>
+    </nav>
+    
+    
+    
+    
+    
+    <div class="container-xxl">
+    
+        
+        <div class="row">
+            <div class="col">
+                <div id="path_percorso" class="d-none d-sm-block">
+                    <nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/pag/12469/">Home</a></li><li class="breadcrumb-item"><a href="/pag/11609/">Ricerca</a></li><li class="breadcrumb-item"><a href="/pag/13234/">Lavorare nella ricerca</a></li><li class="breadcrumb-item active" aria-current="page"><a href="/pag/12314/">Human Resources Strategy for Researchers</a></li></ol></nav>
+                </div>
+                
+            </div><!-- fine col 12-->
+        </div><!-- fine row-->
+        
+        
+        <div class="row">
+            
+        
+            <div class="col-12 col-md-9  order-first order-md-2" id="page_content">
+             
+                <a id="c73548" name="c73548" class="anchor"><!-- ANCHOR --></a><h1>Human Resources Strategy For Researchers</h1><figure class="figure figure-colonna-intera"><img src="/pag/fileadmin/user_upload/ateneo/ricerca/img/848x174/hrs4r848x174.jpg" alt="hrs4s" title="" class="figure-img img-fluid" /></figure><div class="panel-noborder  bg-light mb-3">
+		
+	<div class="row  ">
+		<div class="  col-md-8 col-lg-8 ">
+			<p class="bodytext">Ca’ Foscari ha ottenuto la certificazione <strong>Human Resources Strategy For Researchers (HRS4R) nel 2017</strong>, con promozione a pieni voti da parte del comitato valutatore. L'Ateneo è inserito tra le&nbsp;<a href="https://euraxess.ec.europa.eu/jobs/hrs4r" target="_blank" rel="noreferrer"><strong>&quot;HR Recognized Institutions&quot; italiane nel sito EURAXESS [ENG]</strong></a>.<br />Il 13 ottobre 2023 l'Ateneo ha ospitato la site visit degli assessor e inviati dalla Commissione Europea, che hanno riconfermato l'<strong>HR Excellence in Research Award</strong> per i prossimi tre anni. Si tratta di un label di eccellenza per le istituzioni che si impegnano concretamente a migliorare le condizioni di reclutamento e di sviluppo di carriera della propria Comunità di Ricerca.</p>
+<p class="bodytext">La Human Resources Strategy For Researchers è un insieme di iniziative finalizzate a dare attuazione alla <strong>Carta europea dei ricercatori</strong> e al <strong>Codice di condotta per il loro reclutamento (C&amp;C)</strong>, un corpus di principi sanciti dall’Unione Europea che regolano diritti e doveri degli enti di ricerca/università e dei ricercatori in ogni fase della propria carriera.</p>
+<p class="bodytext">Scopo principale della strategia è quello di migliorare le condizioni di lavoro di tutti i ricercatori che lavorano a Ca’ Foscari e rendere l’ambiente di lavoro attrattivo per i migliori talenti.</p><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Declaration-Ci_1.pdf" title="Dichiarazione d'impegno [ENG]" target="_blank" rel="noreferrer">Dichiarazione d'impegno [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">339 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Gruppo-lavoro-HRS4R.pdf" title="Gruppo di lavoro" target="_blank" rel="noreferrer">Gruppo di lavoro</a></span></td><td class="text-end"><span class="badge bg-secondary">166 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Panel-ricercatori-HRS4R.pdf" title="Panel dei ricercatori" target="_blank" rel="noreferrer">Panel dei ricercatori</a></span></td><td class="text-end"><span class="badge bg-secondary">247 K</span></td></tr></table></div>
+		</div>
+		<div class="  col-md-4 col-lg-4 ">
+			<figure class="figure"><a href="https://euraxess.ec.europa.eu/jobs/hrs4r" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/ateneo/ricerca/img/600x450/hr_600x450.png" alt="HR Excellence in Research" title="HR Excellence in Research" class="img-fluid semplificata"/></a></figure><div class="card tit-rosso"><div class="card-header">Contatti</div><div class="card-body"><p class="bodytext"><strong>Area Risorse Umane</strong><br /><i class="bi bi-envelope"></i>&nbsp;<a href="mailto:hrs4r@unive.it">hrs4r@unive.it</a>&nbsp;<br />Tel. 041 234 7034 / 8234</p></div></div>
+		</div>
+	</div>
+			
+</div><div class="w-100"></div><div class="linea rossa"></div><a id="c73731" name="c73731" class="anchor"><!-- ANCHOR --></a><h2>I principi</h2><p class="bodytext">La <strong>Carta Europea dei ricercatori</strong> e il <strong>Codice di condotta per il loro reclutamento</strong> illustrano i principi generali che specificano ruolo, responsabilità e diritti dei ricercatori e di coloro che li assumono e/o finanziano, nonché le norme e le procedure che dovrebbero essere applicati dai datori di lavoro e/o finanziatori nel nominare o assumere i ricercatori:</p><ul><li>la libertà di ricerca scientifica</li><li>il rispetto dei principi etici</li><li>la responsabilità professionale e finanziaria</li><li>l'impegno per la diffusione e la valorizzazione dei risultati conseguiti</li><li>l'impegno per una crescita professionale continua</li><li>il riconoscimento della professione di tutti i ricercatori</li><li>il divieto di ogni forma di discriminazione</li><li>la garanzia di un ambiente di ricerca stimolante, di condizioni di lavoro flessibili, di stabilità e continuità dell'impiego, di finanziamenti e salari giusti e attrattivi</li></ul><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/risultati-imprese-territorio/hrs4r/carta-europea-ricercatori.pdf" title="Carta europea ricercatori e codice condotta reclutamento" target="_blank" rel="noreferrer">Carta europea ricercatori e codice condotta reclutamento</a></span></td><td class="text-end"><span class="badge bg-secondary">2.84 M</span></td></tr></table></div><div class="w-100"></div><div class="linea rossa"></div><a id="c114401" name="c114401" class="anchor"><!-- ANCHOR --></a><h2>Ca' Foscari e la Carta europea dei ricercatori</h2><p class="bodytext">Gli&nbsp;<strong>obiettivi</strong>&nbsp;della Human Resources Strategy for Researchers sono:</p><ul><li>migliorare le condizioni di lavoro dei ricercatori, con focus sui giovani ricercatori</li><li>incrementare la capacità di attrarre giovani ricercatori stranieri</li><li>aumentare la visibilità internazionale</li></ul><a id="c114391" name="c114391" class="anchor"><!-- ANCHOR --></a><h3>Le tappe della certificazione</h3><p class="bodytext">Il processo di certificazione si sviluppa in&nbsp;<strong>5 tappe</strong>:</p><ol><li><strong>analisi interna:</strong>&nbsp;l’Ateneo analizza la propria situazione in relazione ai 40 principi espressi nella Carta e nel Codice, suddivisi in quattro aree tematiche: aspetti professionali ed etici; procedure di assunzione; condizione di lavoro e previdenza sociale; formazione.<br />L’analisi interna viene svolta somministrando a professori, ricercatori, assegnisti di ricerca, dottorandi e personale tecnico di Ca’ Foscari un&nbsp;<strong>questionario</strong>&nbsp;finalizzato a valutare il livello di “agreement” con ciascuna delle affermazioni riportate nelle domande che sono finalizzate ad individuare i punti di forza e di debolezza delle politiche dell’ateneo rispetto ai principi enunciati nella Carta.</li></ol><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/GAP_ANALYSIS.pdf" title="Gap analysis 2016" target="_blank" rel="noreferrer">Gap analysis 2016</a></span></td><td class="text-end"><span class="badge bg-secondary">730 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Allegato_1__GAP_ANALYSIS.pdf" title="Allegato 1 gap analysis 2016: analisi statistica questionario" target="_blank" rel="noreferrer">Allegato 1 gap analysis 2016: analisi statistica questionario</a></span></td><td class="text-end"><span class="badge bg-secondary">544 K</span></td></tr></table></div><ol start="2"><li><strong>piano d’azione:</strong>&nbsp;in base a quanto emerso dall’analisi interna l’Ateneo definisce la propria Human Resources Strategy indicando le azioni concrete e dettagliate per allinearsi ai principi della Carta e del Codice. Il piano di azione viene pubblicato sul sito web.</li></ol><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/ACTION_PLAN_2016.pdf" title="Piano d'azione 2016" target="_blank" rel="noreferrer">Piano d'azione 2016</a></span></td><td class="text-end"><span class="badge bg-secondary">219 K</span></td></tr></table></div><ol start="3"><li><strong>riconoscimento:</strong>&nbsp;la Commissione Europea, dopo aver ricevuto e valutato il piano d’azione proposto, rilascia all’istituzione l’Acknowledgement, che consente l’utilizzo del logo “HR Excellence in Research”.</li></ol><ol start="4"><li><strong>valutazione interna:</strong> l’Ateneo deve effettuare, dopo due anni, una valutazione interna per verificare lo stato di realizzazione del piano d’azione.</li></ol><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Internal_review.pdf" title="Prima revisione interna 2019 [ENG]" target="_blank" rel="noreferrer">Prima revisione interna 2019 [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">654 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/RevisedActionPlan.pdf" title="Piano d'azione aggiornato 2019 [ENG]" target="_blank" rel="noreferrer">Piano d'azione aggiornato 2019 [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">461 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/Otm-r_checklist.pdf" title="Checklist OTM-R 2019 [ENG]" target="_blank" rel="noreferrer">Checklist OTM-R 2019 [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">141 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/risultati-imprese-territorio/hrs4r/OTM_R_Policy-ITA.pdf" title="Policy OTM-R 2021" target="_blank" rel="noreferrer">Policy OTM-R 2021</a></span><br /><span class="csc-uploads-description">Per una selezione dei ricercatori aperta, trasparente e basata sul merito</span></td><td class="text-end"><span class="badge bg-secondary">787 K</span></td></tr></table></div><ol start="5"><li><strong>valutazione esterna:</strong>&nbsp;ogni tre anni la Commissione Europea procede a una valutazione dei progressi compiuti per raggiungere gli obiettivi fissati nel piano di azione.</li></ol><div class="table-responsive-md"><table class="table table-hover table-uploads"><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/2ndInternalReview2022.pdf" title="Seconda revisione interna 2022 [ENG]" target="_blank" rel="noreferrer">Seconda revisione interna 2022 [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">908 K</span></td></tr><tr><td style="padding-left:16px; width: 60px;" ><img class="pull-left icona-uploads" src="/pag/templates/img/icon/pdf.png" alt="file pdf"></td><td><span class="text-left"><a href="/pag/fileadmin/user_upload/ateneo/ricerca/documenti/carriera/RevisedActionPlan2022.pdf" title="Piano d'azione aggiornato 2022 [ENG]" target="_blank" rel="noreferrer">Piano d'azione aggiornato 2022 [ENG]</a></span></td><td class="text-end"><span class="badge bg-secondary">786 K</span></td></tr></table></div>
+                        
+            </div> <!-- fine col 9-->
+            
+            <div class="col-12 col-md-3"  id="leftCol" >
+            
+<!--                 -->
+                
+                <div class="menu_left" >
+                    <nav class="bs-docs-sidebar hidden-print">
+                
+                         
+                        
+                        <div class="bs-docs-sidebar" id="sidebar">
+                        
+                            <div  class="list-group list-group-flush"><a href="/pag/11701/" class="list-group-item list-group-item-action link_{field:layout}">Borse di ricerca</a><a href="https://www.unive.it/web/it/234" class="list-group-item list-group-item-action link_{field:layout}">Corsi di dottorato</a><span class="list-group-item  list-group-item-action active" >Human Resources Strategy for Researchers</span><a href="/pag/11291/" class="list-group-item list-group-item-action link_{field:layout}">Lavora con noi</a></div >  
+                        </div>
+                    
+                    </nav>                        
+                </div><!-- fine col 3-->      
+            </div><!-- fine col 3-->
+            
+        </div><!-- fine row-->
+        
+       
+        
+            <p class="cms-last-lastChange text-end"><small> Last update:&nbsp;23/04/2026</small></p>    
+         
+        
+    </div><!-- fine container-xxl-->
+
+
+</main>
+    
+ 
+<footer class="bottom" id="footer">
+  <div class="container-xxl">
+        
+        <div class="row">
+        	<div class="col">
+                
+	
+
+    			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="grigio_scuro_unive">
+		<div class="container-xxl">
+			<div class="row">
+				<div class="col">
+					
+		
+	<div class="row  ">
+		<div class="  col-md-7 col-lg-7 ">
+			<address>
+  <strong>Università Ca’ Foscari</strong><br>
+  Dorsoduro 3246, 30123 Venezia<br>
+  PEC <a href="mailto:protocollo@pec.unive.it">protocollo@pec.unive.it</a><br>
+  P.IVA 00816350276 - C.F. 80007720271<br>
+</address>
+<p class="text-left mb-3">
+  <a href="/web/it/17452/">Privacy</a> / <a href="/web/it/17456/">Cookies</a> / <a href="/web/it/17439/">Credits e note legali</a><br>
+  <a href="/accessibilita">Accessibilità</a> / <a href="/web/it/17440/">Elenco siti tematici</a><br>
+</p><a href="https://eutopia-university.eu/" class="img-link" target="_blank">
+  <img src="/pag/fileadmin/user_upload/img/loghi/Eutopia_logo_blanc.png" alt="Eutopia website" title="Eutopia website" class="img-responsive hr-logo me-5" />
+</a><a href="/pag/12314/" class="img-link">
+  <img src="/pag/fileadmin/user_upload/img/svg/hr_excellence_i_r.svg" alt="HR website" title="HR website" class="img-responsive hr-logo me-5" />
+</a>
+		</div>
+		<div class="  col-md-5 col-lg-5 ">
+			<p class="text-right text-end fs-5"><a href="https://www.unive.it/data/webmail/" target="_blank" rel="noreferrer" class="linkarchive">Webmail</a> / <a href="https://www.unive.it/data/accesso" class="linkarchive">Area riservata</a></p><p class="text-right text-end">
+  <a href="/pag/10576">Call center</a> / 
+  <a href="/faqstudenti">FAQ studenti</a> / 
+  <a href="/pag/10601">URP</a> / 
+  <a href="/aiuto">Assistenza informatica</a><br />
+  <a href="//apps.unive.it/mappe">Mappe e percorsi</a> / <a href="/wifi">WiFi</a> / <a href="/vpn">VPN</a><br />
+  <!--<a href="/pag/37359/#c394608">Area stampa</a> / --><a href="/5x1000">5x1000</a> / <a href="/pag/10788">Pagamenti pagoPA</a>
+  <!--<a href="//www.unive.it/pag/17402/">Ca' Foscari social</a><br />-->
+</p>
+<div class="w-100 divider-invisibile" ></div><a href="https://www.threads.net/@cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/threads-icon_w.png" alt="Threads" title="Threads" class="social"/></a><a href="https://mp.weixin.qq.com/s/u70V_4FBamxUlNwz2ra68w" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/wechat-icon_w.png" alt="Wechat" title="Wechat" class="social"/></a><a href="https://www.tiktok.com/@cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/tiktok-icon_w.png" alt="Tiktok" title="Tiktok" class="social"/></a><a href="https://www.telegram.me/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/telegram-icon_w.png" alt="Telegram" title="Telegram" class="social"/></a><a href="https://www.flickr.com/photos/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/flickr-icon_w.png" alt="Flickr" title="Flickr" class="social"/></a><a href="https://www.weibo.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/weibo-icon_w_f.png" alt="Weibo" title="Weibo" class="social"/></a><a href="https://www.linkedin.com/school/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/linkedin-icon_w.png" alt="LinkedIn" title="LinkedIn" class="social"/></a><a href="https://www.instagram.com/cafoscari/" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/instagram-icon_w_f.png" alt="Instagram" title="Instagram" class="social"/></a><a href="https://www.youtube.com/user/youcafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/youtube-icon_w.png" alt="Youtube" title="Youtube" class="social"/></a><a href="https://www.twitter.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/twitter-icon_w.png" alt="Twitter" title="Twitter" class="social"/></a><a href="https://www.facebook.com/cafoscari" target="_blank" rel="noreferrer" class="img-link"><img src="/pag/fileadmin/user_upload/img/icon/facebook-icon_w.png" alt="Facebook" title="Facebook" class="social"/></a>
+		</div>
+	</div>
+			
+
+				</div>
+			</div>
+		</div>	
+	</div>
+		
+		
+	
+	<div class="container-xxl">
+		<div class="row">
+			<div class="col">
+            
+	
+	
+
+<div id="top"><i class="bi bi-arrow-up"></i></div>
+
+            </div> <!-- fine col 12-->
+        </div><!-- fine row-->
+    
+	</div><!-- fine container-xxl-->
+</footer>
+
+
+
+	<div class="modal fade" role="dialog" id="cookieModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="cookieModalLabel" aria-hidden="true" data-nosnippet>
+  <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+     
+      <div class="modal-header flex-column position-relative">
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" onClick="cookiesPolicy.selDefAndloadScript()" ></button>
+         <small class="ms-auto me-0 pt-1 text-muted">chiudendo la finestra si accettano automaticamente solo i cookies necessari</small>
+      </div>
+      
+      <div class="modal-body cookie">
+        <div class="container">
+          <div class="row">
+              
+            <div class="col-12 col-md-2">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="home-tab" data-bs-toggle="pill" href="#home" role="tab" aria-controls="home" aria-selected="true">Cookie</a>
+                    <a class="nav-link" id="info-tab" data-bs-toggle="pill" href="#info" role="tab" aria-controls="info" aria-selected="false">Informazioni sui cookie</a>
+                    <a class="nav-link" id="lista-tab" data-bs-toggle="pill" href="#lista" role="tab" aria-controls="info" aria-selected="false">Lista cookies</a>
+                </div>
+            </div>
+            <div class="col-12 col-md-10">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                      <p class="lead" id="cookieModalLabel">Questo sito web utilizza i cookie</p>
+                        <p>
+                        Questo sito utilizza cookie. I cookie necessari (di prima parte) permettono il corretto funzionamento del sito e di effettuare analisi statistiche anonime. Cliccando sulla X in alto a destra verranno installati solo i cookie necessari. Se acconsenti, verranno installati anche altri cookie che abilitano le funzionalità dei social media e forniscono statistiche sul loro utilizzo. In questo caso, i dati raccolti saranno condivisi anche con i nostri partner, che potrebbero associarli ad altre informazioni per finalità di analisi, di pubblicità, ecc. Cliccando “Lista cookie” potrai vedere quali cookie verranno installati. Per ottenere maggiori informazioni consulta “Informazioni sui cookies”.
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" disabled checked>
+                            <label class="form-check-label" for="inlineCheckbox1">
+                                Necessari
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" name="noiframe" id="noiframe" value="noiframe">
+                            <label class="form-check-label" for="noiframe">
+                                Google - Youtube
+                            </label>
+                        
+                        </div>
+                        <div class="form-check form-check-inline my-2">
+                            <input class="form-check-input" type="checkbox" name="socialpix" id="socialpix" value="socialpix">
+                            <label class="form-check-label" for="socialpix">
+                                Facebook - Pixel
+                            </label>
+                        
+                        </div>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+              <button class="btn btn btn-primary btn-sm px-4 mt-2 float-end " data-dismiss="modal" data-toggle="tooltip" onClick="cookiesPolicy.selAndloadScript()">
+                Accetta i cookies selezionati
+              </button>
+              <button class="btn btn btn-primary btn-sm px-4 mt-2 float-end " data-dismiss="modal" onClick="cookiesPolicy.selAllAndloadScript()">
+                Accetta tutti i cookie
+              </button>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="info" role="tabpanel" aria-labelledby="info-tab">
+                        <a id="c526941" name="c526941" class="anchor"><!-- ANCHOR --></a><h4>Cookies Policy</h4><h3>     Cookie Policy - Informativa sul trattamento dei dati personali ai sensi dell’art 13 del Regolamento (UE) 2016/679 </h3>
+<p class="bodytext">     L’Università Ca’ Foscari Venezia, nell’ambito delle proprie finalità istituzionali e in adempimento agli obblighi previsti dall’art. 13 del Regolamento (UE) 2016/679 (“Regolamento”), Le fornisce informazioni in merito al trattamento dei dati personali raccolti, durante la navigazione sul sito web “<a href="https://www.unive.it/">www.unive.it</a> - Sito”, dai cookie e/o dagli altri strumenti di tracciamento presenti sul sito stesso. Per “cookie” si intende la stringa di testo, di piccole dimensioni, che un sito invia al dispositivo dell'utente (dove viene memorizzata automaticamente) e che viene poi rinviata al sito o a terze parti ogni qualvolta si acceda nuovamente al sito stesso attraverso il medesimo dispositivo. </p>
+<p class="bodytext">     Nella presente informativa, per semplificare, si utilizzerà il termine “cookie” per fare riferimento sia ai cookie, come definiti sopra, sia agli eventuali altri strumenti di tracciamento presenti sul Sito. </p>
+<h4>     1. Titolare del trattamento&nbsp; </h4>
+<p class="bodytext">     Il Titolare del trattamento è l’Università Ca’ Foscari Venezia, con sede in Dorsoduro n. 3246, 30123 Venezia (VE), nella persona della Magnifica Rettrice pro tempore.&nbsp; </p>
+<h4>     2. Responsabile della Protezione dei Dati </h4>
+<p class="bodytext">     L’Università ha nominato il “Responsabile della Protezione dei Dati” (“RPD” o Data Protection Officer “DPO”), che può essere contattato scrivendo all’indirizzo di posta elettronica <i class="bi bi-envelope"></i>&nbsp;<a href="mailto:dpo@unive.it">dpo@unive.it</a> o al seguente recapito: Università Ca’ Foscari Venezia, Responsabile della Protezione dei Dati, Dorsoduro n. 3246, 30123 Venezia (VE). </p>
+<h4>     3. Categorie di cookie utilizzati, dati raccolti, finalità e basi giuridiche </h4>
+<p class="bodytext">     Nel Sito sono presenti le seguenti tipologie di cookie (per informazioni dettagliate su ogni singolo cookie si faccia riferimento alla lista cookie presente in calce all’informativa): </p><ul><li>         <strong>cookie tecnici o di sessione</strong>: ossia cookie utili a effettuare la navigazione o a fornire un servizio richiesto dall’utente. Non vengono utilizzati per scopi ulteriori e sono normalmente installati direttamente dal titolare del sito web. Nel Sito sono presenti cookie necessari per gestire il login e l’accesso all’area riservata del Sito nonché per registrare le preferenze relative all’installazione dei cookie stessi.<br>         I dati raccolti associati a tali cookie sono: indirizzo IP dell’utente, data e ora della visita, modalità di invio dei dati, risorsa richiesta, responso alla richiesta, dimensione in byte della risposta, link di provenienza dell’utente alla risorsa richiesta, sistema operativo utilizzato, tipo di browser, tipo di dispositivo da cui si naviga (PC, smartphone, ecc.). La base giuridica per il trattamento dei predetti dati personali è rappresentata dagli artt. 6.1.b) del Regolamento (“servizio prestato su richiesta dell’interessato”) e art. 6.1.e) del Regolamento (“esecuzione di un compito di interesse pubblico”). in quanto l’Ateneo, essendo una Pubblica Amministrazione, deve per legge dotarsi di un sito istituzionale dal quale gli utenti possono trarre informazioni relative ai servizi resi (artt. 53 e 54 Codice Amministrazione Digitale – D.Lgs. n. 82/2005). Non è possibile disattivare tali cookies attraverso il banner di Ateneo, in quanto la loro disattivazione pregiudica la navigazione del Sito.     </li>     <li>         <strong>cookie analitici (di prima parte)</strong>: ossia cookie utili alla misurazione delle visite alle varie pagine del Sito nonché al miglioramento delle prestazioni e dell’usabilità del Sito stesso attraverso l’elaborazione di dati aggregati per la creazione di statistiche. I cookie analitici in uso sono rilasciati dall'Ateneo. I dati raccolti sono: indirizzo Ip, pagina visitata, lingua del browser, tempo medio della visita, azioni sulla pagina (download, outlinks), prima visita, ultima visita, dispositivo utilizzato. La base giuridica per il trattamento dei predetti dati personali è rappresentata dall’art. 6.1.e) del Regolamento (“esecuzione di un compito di interesse pubblico”) al fine di reperire statistiche utili sulle visite alle pagine del Sito, come ad esempio, nel caso delle sottosezioni della sezione Amministrazione Trasparente. Non è possibile disattivare tali cookies attraverso il banner di Ateneo, in quanto la loro disattivazione pregiudica la navigazione del Sito.     </li>     <li>         <strong>cookie di terze parti</strong> (social network): ossia cookie rilasciati da terze parti solo ove l’utente abbia prestato apposito consenso. Infatti, durante la prima visita al Sito, viene richiesto agli utenti attraverso apposito banner il consenso all’installazione di tali cookie. Il mancato consenso o la revoca successiva dello stesso, attraverso l’impostazione “disabilita cookie”, non pregiudica la navigazione sul Sito. I dati, quindi, vengono raccolti dalle predette terze parti e non dal gestore del sito su cui si sta navigando, e sono finalizzati alla raccolta di dati sulla navigazione e sulle preferenze dell’utente. I cookie di terze parti che possono essere rilasciati dal Sito sono i seguenti: a) cookie di Google - Youtube (per permettere agli utenti di visualizzare i video caricati su Youtube presenti nel Sito nonché all’Università di valutare l'efficacia delle attività di comunicazione istituzionale), il cui funzionamento è gestito da Google; b) cookie di Facebook - Pixel (che traccia gli utenti per il retargeting pubblicitario su Facebook), il cui funzionamento è gestito da Meta Platforms Inc. <a >Si segnala che, fornendo il consenso all’installazione dei cookie di Facebook - Pixel, l’Università provvederà a raccogliere i dati relativi al tempo di permanenza di un utente su una determinata pagina web e i dati relativi allo scrolling delle pagine, tramite suoi strumenti, senza tuttavia conservarli. Le predette informazioni saranno automaticamente tramesse dall’Ateneo a Pixel qualora il tempo di permanenza dell’utente sulla pagina sia superiore ai 45 secondi e qualora lo scrolling della pagina sia almeno del 60%.</a> L’Università ha visibilità solo, in forma anonima e aggregata, di dati statistici messi a disposizione dai fornitori delle predette piattaforme, in qualità di Contitolare del trattamento con questi ultimi, in conformità a quanto previsto dalla sentenza C-210/16 del 5 giugno 2018 della Corte di Giustizia dell’Unione Europea. La base giuridica per tale trattamento è rappresentata dall’art. 6.1.a) del Regolamento (“consenso dell’interessato”).     </li></ul><p class="bodytext">     Si ricorda, inoltre, che è sempre possibile procedere alla disabilitazione dei cookie attraverso le impostazioni del proprio browser come descritte nei link riportati di seguito ma che disabilitando completamente i cookie nel browser, si potrebbero perdere alcune funzionalità del Sito (utilizzo dei servizi accessibili solo a seguito del login): </p><ul><li>         Internet Explorer: <a href="http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11">http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11</a>&nbsp; <a href="https://support.microsoft.com/it-it/windows/eliminare-e-gestire-i-cookie-168dab11-0753-043d-7c16-ede5947fc64d">https://support.microsoft.com/it-it/windows/eliminare-e-gestire-i-cookie-168dab11-0753-043d-7c16-ede5947fc64d</a>     </li>     <li>         Microsoft Edge: <a href="https://support.microsoft.com/it-it/microsoft-edge/eliminare-i-cookie-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09">support.microsoft.com/it-it/microsoft-edge/eliminare-i-cookie-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09</a>     </li>     <li>         Google Chrome: <a href="https://support.google.com/accounts/answer/61416?hl=it">https://support.google.com/accounts/answer/61416?hl=it</a>     </li>     <li>         Apple Safari: <a href="http://support.apple.com/kb/HT1677?viewlocale=it_IT">http://support.apple.com/kb/HT1677?viewlocale=it_IT</a>     </li>     <li>         Mozilla Firefox: <a href="https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie">https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie</a>     </li>     <li>         Opera: <a href="http://help.opera.com/Windows/10.00/it/cookies.html">http://help.opera.com/Windows/10.00/it/cookies.html</a>&nbsp;     </li></ul><p class="bodytext">     Infine, è possibile prendere visione dei cookie di profilazione/comportamentale presenti sul proprio browser, visitando l’indirizzo <a href="http://www.youronlinechoices.com/it/le-tue-scelte/">http://www.youronlinechoices.com/it/le-tue-scelte/</a>. </p>
+<h4>     4. Modalità di trattamento </h4>
+<p class="bodytext">     Il trattamento dei dati personali verrà effettuato da dipendenti e collaboratori dell’Ateneo che agiscono sulla base di specifiche istruzioni fornite in ordine alle finalità e modalità del trattamento medesimo (nel rispetto di quanto previsto dall’art. 29 del Regolamento e dall’art. 2-quaterdecies del D.Lgs. n. 196/2003), con l’utilizzo di procedure informatizzate, adottando misure tecniche e organizzative adeguate a proteggerli da accessi non autorizzati o illeciti, dalla distruzione, dalla perdita di integrità e riservatezza, anche accidentali. </p>
+<h4>     5. Tempo di conservazione </h4>
+<p class="bodytext">     Si prega di prendere visione della lista cookie presente in calce all’informativa per conoscere la specifica durata di ogni singolo cookie. </p>
+<h4>     6. Destinatari e categorie di destinatari dei dati personali </h4>
+<p class="bodytext">     Per le finalità sopra riportate, oltre ai dipendenti e ai collaboratori dell’Ateneo specificamente autorizzati, potranno trattare i dati personali anche soggetti che svolgono attività in outsourcing per conto dell’Ateneo nella loro qualità di Responsabili del trattamento (es. agenzie di comunicazione, ecc.). La lista aggiornata dei Responsabili del trattamento dell’Università è disponibile alla pagina web: <a href="https://www.unive.it/pag/34666/">https://www.unive.it/pag/34666/</a>&nbsp; </p>
+<p class="bodytext">     I dati raccolti utilizzando i cookie di terze parti potranno essere oggetto di trasferimento al di fuori dello Spazio Economico Europeo (SEE), nel rispetto di quanto prescritto dal Regolamento. </p>
+<h4>     7. Diritti dell’interessato e modalità di esercizio </h4>
+<p class="bodytext">     In qualità di interessato, ha diritto di ottenere dall’Ateneo, nei casi previsti dal Regolamento, l’accesso ai dati personali, la rettifica, l’integrazione, la cancellazione degli stessi, la limitazione del trattamento ovvero di opporsi al trattamento medesimo nonché la revoca del consenso (artt. 15 e ss. del Regolamento). La richiesta potrà essere presentata, senza alcuna formalità, contattando direttamente il Responsabile della Protezione dei Dati all’indirizzo <i class="bi bi-envelope"></i>&nbsp;<a href="mailto:dpo@unive.it">dpo@unive.it</a> ovvero inviando una comunicazione al seguente recapito: Università Ca’ Foscari Venezia, Responsabile della Protezione dei Dati, Dorsoduro n. 3246, 30123 Venezia. In alternativa, è possibile contattare il Titolare del trattamento, inviando una PEC a <i class="bi bi-envelope"></i>&nbsp;<a href="mailto:dpo@unive.it">protocollo@pec.unive.it</a>. </p>
+<p class="bodytext">     Gli interessati che ritengono che il trattamento dei dati personali a loro riferiti avvenga in violazione di quanto previsto dal Regolamento hanno, inoltre, il diritto di proporre reclamo all’Autorità Garante per la Protezione dei Dati Personali (art. 77 del Regolamento), o di adire le opportune sedi giudiziarie (art. 79 del Regolamento). </p>
+<h4>     Appendice Social Media: </h4>
+<p class="bodytext">     A integrazione dell’informativa resa ai sensi dell’art. 13 del Regolamento (UE) 2016/679 (pubblicata al seguente link<a href="https://www.unive.it/pag/17993/"> www.unive.it/pag/17993</a>), l’Università informa gli utenti che accedono alle pagine istituzionali dell’Ateneo nei social media (es. Facebook, Instagram) che l’Università tratta, in forma anonima e aggregata, i dati statistici messi a disposizione dai fornitori delle predette piattaforme, in qualità di Contitolari del trattamento con questi ultimi, in conformità a quanto previsto dalla sentenza C-210/16 del 5 giugno 2018 della Corte di Giustizia dell’Unione Europea.&nbsp; </p>
+<p class="bodytext">     Inoltre, l’Università tratta i dati personali conferiti dall'utenza attraverso le pagine delle proprie piattaforme di social media, nell’ambito delle sue finalità istituzionali, esclusivamente per gestire le interazioni con l'utenza (commenti, post pubblici, ecc.). </p>
+<p class="bodytext">     Nel Sito, infine, sono presenti dei social button, ovvero dei link che rinviano agli account dell'Università sui social network raffigurati (es. Facebook, YouTube, X e LinkedIn) e consentono agli utenti che stanno navigando di interagire con un “click” direttamente con le piattaforme social. Tramite l’utilizzo di tali pulsanti non sono installati sul Sito cookie di terze parti (i pulsanti permettono semplicemente l'accesso diretto dal Sito ai predetti account). </p>
+<p class="bodytext">     <strong>Data ultimo aggiornamento dell'informativa: 19/02/2025</strong> </p></div>
+<div class="tab-pane fade" id="lista" role="tabpanel" aria-labelledby="lista-tab"><div class="table-responsive"><h4>Lista cookies rilasciati</h4>
+				<table data-role="table" class="table">
+					<caption>Data ultimo aggiornamento della lista cookie: 22/12/2022</caption><thead>
+					<tr class="tr-even tr-0">
+							<th class="td-0" scope="col" id="col528145-0">Tipologia</th>
+							<th class="td-1" scope="col" id="col528145-1">Nome</th>
+							<th class="td-2" scope="col" id="col528145-2">Fornitore (Dominio)</th>
+							<th class="td-3" scope="col" id="col528145-3">Descrizione</th>
+							<th class="td-4" scope="col" id="col528145-4">Durata</th>
+							<th class="td-last td-5" scope="col" id="col528145-5">Informativa</th>
+					</tr>
+					</thead><tbody>
+					<tr class="tr-odd tr-1">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_pk_id[*]</td>
+							<td class="td-2" headers="col528145-2">unive/WAI</td>
+							<td class="td-3" headers="col528145-3">*</td>
+							<td class="td-4" headers="col528145-4">30 giorni</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-2">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_pk_ses[*]</td>
+							<td class="td-2" headers="col528145-2">unive/WAI</td>
+							<td class="td-3" headers="col528145-3">*</td>
+							<td class="td-4" headers="col528145-4">1 giorno</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-3">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_pk_ref[*]</td>
+							<td class="td-2" headers="col528145-2">unive/WAI</td>
+							<td class="td-3" headers="col528145-3">*</td>
+							<td class="td-4" headers="col528145-4">6 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://matomo.org/faq/general/faq_146/" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-4">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_gsas</td>
+							<td class="td-2" headers="col528145-2">unive/google</td>
+							<td class="td-3" headers="col528145-3">Memorizza le preferenze dell'utente</td>
+							<td class="td-4" headers="col528145-4">3 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://policies.google.com/technologies/cookies?hl=it" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-5">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_opensaml_req_cookie%</td>
+							<td class="td-2" headers="col528145-2">unive</td>
+							<td class="td-3" headers="col528145-3">Gestione autenticazione e SingleSignOn <a href="https://stackoverflow.com/questions/67304690/shibboleth-adding-opensaml-cookies-leading-to-http-header-size8k" target="_blank" rel="noreferrer">(shibboleth)</a></td>
+							<td class="td-4" headers="col528145-4">sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-6">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">_shibsession[*], _shibsstate[*]</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Mantiene i dati di sessione del SingleSignOn</td>
+							<td class="td-4" headers="col528145-4">Sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-7">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">PHPSESSID</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Identificatore univoco dell'utente per gli applicativi del sito</td>
+							<td class="td-4" headers="col528145-4">Sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-8">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">cookie[*]</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Memorizza le preferenze dell'utente sui cookie</td>
+							<td class="td-4" headers="col528145-4">1 mese</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-9">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">cookie</td>
+							<td class="td-2" headers="col528145-2">idp.unive.it</td>
+							<td class="td-3" headers="col528145-3">Memorizza le preferenze dell'utente sui cookie</td>
+							<td class="td-4" headers="col528145-4">1 mese</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-10">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">fe_typo_user</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3"> Identificatore univoco dell'utente per l'area riservata del sito</td>
+							<td class="td-4" headers="col528145-4">sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-11">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">JSESSIONID</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Utilizzato per creare le sessioni in area riservata</td>
+							<td class="td-4" headers="col528145-4">sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-12">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">ADMCMD_prev</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Utilizzato per la gestione degli accessi al cms typo3</td>
+							<td class="td-4" headers="col528145-4">sessione</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-13">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">unive.it</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">servono a registrare le preferenze sui cookies</td>
+							<td class="td-4" headers="col528145-4">6 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-14">
+							<td class="td-0" headers="col528145-0">Necessario</td>
+							<td class="td-1" headers="col528145-1">noiframe</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">servono a registrare le preferenze sui cookies</td>
+							<td class="td-4" headers="col528145-4">6 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-15">
+							<td class="td-0" headers="col528145-0">Google - Youtube</td>
+							<td class="td-1" headers="col528145-1">__Secure-1PAPISID</td>
+							<td class="td-2" headers="col528145-2">Google (google.com)</td>
+							<td class="td-3" headers="col528145-3">Utilizzato per finalità di targeting per costruire un profilo degli interessi dei visitatori del sito web al fine di mostrare pubblicità Google pertinente e personalizzata.</td>
+							<td class="td-4" headers="col528145-4">1 mese</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://policies.google.com/technologies/cookies?hl=it" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-even tr-16">
+							<td class="td-0" headers="col528145-0">Google - Youtube</td>
+							<td class="td-1" headers="col528145-1">CONSENT</td>
+							<td class="td-2" headers="col528145-2">Google (google.com)</td>
+							<td class="td-3" headers="col528145-3">Utilizzato da google per memorizzare le preferenze dell'utente</td>
+							<td class="td-4" headers="col528145-4">17 anni</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://policies.google.com/technologies/cookies?hl=it" target="_blank" rel="noreferrer">Informativa</a></td>
+					</tr>
+					<tr class="tr-odd tr-17">
+							<td class="td-0" headers="col528145-0">Facebook - Pixel</td>
+							<td class="td-1" headers="col528145-1">Socialpix</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Servono a registrare le preferenze sui cookiesc</td>
+							<td class="td-4" headers="col528145-4">6 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.unive.it/pag/17993/">Informativa Università Ca' Foscari</a></td>
+					</tr>
+					<tr class="tr-even tr-last">
+							<td class="td-0" headers="col528145-0">Facebook - Pixel</td>
+							<td class="td-1" headers="col528145-1">_fbp</td>
+							<td class="td-2" headers="col528145-2">Unive.it (www.unive.it)</td>
+							<td class="td-3" headers="col528145-3">Traccia gli utenti per il retargeting pubblicitario su Facebook</td>
+							<td class="td-4" headers="col528145-4">3 mesi</td>
+							<td class="td-last td-5" headers="col528145-5"><a href="https://www.facebook.com/privacy/policies/cookies" target="_blank" rel="noreferrer">Informativa facebook</a></td>
+					</tr></tbody>
+				</table></div>                    </div>
+                </div>
+            </div>           
+              
+         </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>    
+
+
+
+<!-- Template by Stefano Bonetta  -->
+
+<script src="/pag/typo3temp/compressor/js_unive-00b61c9c359561c7348ead976939c5e6.js?1768403902" type="text/javascript"></script>
+
+
+</body>
+</html>
